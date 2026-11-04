@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T16:06:19.728060+00:00",
-  "lastCollectedAt": "2026-11-04T15:59:16.938438+00:00",
-  "totalCollected": 96,
+  "generatedAt": "2026-11-04T16:11:05.610806+00:00",
+  "lastCollectedAt": "2026-11-04T16:11:05.491541+00:00",
+  "totalCollected": 97,
   "sources": [
     {
       "id": "359576301158357",
@@ -51,6 +51,35 @@
     }
   ],
   "listings": [
+    {
+      "id": "d69aef5975dfeeaa",
+      "url": "https://rent.591.com.tw/22292254",
+      "sourceId": "591",
+      "sourceName": "591",
+      "title": "大橋頭站/民權西路站、新裝潢採光、可租補,可養貓、機能佳",
+      "district": "大同區",
+      "street": "大龍街",
+      "kind": "共生合租",
+      "rent": 13500,
+      "managementFee": null,
+      "extraFee": "",
+      "water": "待確認",
+      "electric": "待確認",
+      "subsidy": "可租補",
+      "stationPriority": true,
+      "stationText": "原文明列民權西路站，距離待確認",
+      "firstSeen": "2026-11-04T16:10:52.597493+00:00",
+      "lastSeen": "2026-11-04T16:10:52.597493+00:00",
+      "unavailable": false,
+      "nonListing": false,
+      "ambiguousPrice": false,
+      "images": [],
+      "location": {
+        "lat": 25.063643,
+        "lng": 121.516073,
+        "label": "來源提供的位置，非門牌保證"
+      }
+    },
     {
       "id": "6f6463709f2f1e92",
       "url": "https://www.facebook.com/groups/459966811445588/posts/2401593007282949/",
@@ -2084,16 +2113,12 @@
       "stationPriority": false,
       "stationText": "原文明列距台北車站 377 公尺",
       "firstSeen": "2026-11-04T14:22:23.608693+00:00",
-      "lastSeen": "2026-11-04T14:52:53.607413+00:00",
+      "lastSeen": "2026-11-04T16:11:05.491541+00:00",
       "unavailable": false,
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [
-        "photos/ca0edcf32666-115ee0f65d10b2.jpg",
-        "photos/ca0edcf32666-a2062d187e9e65.jpg",
-        "photos/ca0edcf32666-41ce736ffb5155.jpg",
-        "photos/ca0edcf32666-62c04e45f77bb3.jpg",
-        "photos/ca0edcf32666-3508213ae4a14a.jpg"
+        "photos/ca0edcf32666-115ee0f65d10b2.jpg"
       ],
       "location": {
         "lat": 25.0512196,
@@ -2829,8 +2854,8 @@
   ],
   "collector": {
     "state": "partial",
-    "message": "facebook 已暫停，異常已記錄；其餘來源依序更新。",
-    "lastAttemptAt": "2026-11-04T16:04:19.041866+00:00",
-    "lastSuccessAt": "2026-11-04T15:59:16.952479+00:00"
+    "message": "facebook 讀取修正待下輪驗證；591 正常更新。",
+    "lastAttemptAt": "2026-11-04T16:10:23.781558+00:00",
+    "lastSuccessAt": "2026-11-04T16:11:05.503897+00:00"
   }
 }
