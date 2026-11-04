@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T14:53:11.676541+00:00",
+  "generatedAt": "2026-11-04T15:17:21.209601+00:00",
   "lastCollectedAt": "2026-11-04T14:52:57.501107+00:00",
   "totalCollected": 95,
   "sources": [
@@ -2809,5 +2809,11 @@
       "images": [],
       "location": null
     }
-  ]
+  ],
+  "collector": {
+    "state": "paused",
+    "message": "雲端來源拒絕存取（591 HTTP 403），自動更新已暫停；Facebook 尚未恢復。現有房源仍可瀏覽。",
+    "lastAttemptAt": "2026-11-04T15:17:15.618795+00:00",
+    "lastSuccessAt": null
+  }
 }
