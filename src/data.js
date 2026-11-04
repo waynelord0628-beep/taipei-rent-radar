@@ -6,7 +6,7 @@ export function assess(item, filters) {
   if (item.unavailable) no.push('已出租或下架');
   if (item.nonListing) no.push('非出租物件');
   if (filters.districts.length && !filters.districts.includes(item.district)) {
-    (item.district === '待確認' ? pending : no).push('地區不符');
+    (item.district === '待確認' ? pending : no).push(item.district === '待確認' ? '地區待確認' : '地區不符');
   }
   if (item.rent == null) pending.push('租金待確認');
   else if (item.rent > filters.budget) no.push('超出租金上限');
@@ -16,7 +16,10 @@ export function assess(item, filters) {
   if (filters.subsidy && item.subsidy !== '可租補') {
     (item.subsidy === '不可租補' ? no : pending).push(item.subsidy === '不可租補' ? '不可租補' : '租補待確認');
   }
-  if (filters.utilities && !(item.water === '台水' && item.electric === '台電')) pending.push('台水台電待確認');
+  if (filters.utilities && !(item.water === '台水' && item.electric === '台電')) {
+    const different = (item.water && item.water !== '待確認' && item.water !== '台水') || (item.electric && item.electric !== '待確認' && item.electric !== '台電');
+    (different ? no : pending).push(different ? '水電計費不符' : '台水台電待確認');
+  }
   if (item.ambiguousPrice) pending.push('價格條件待確認');
   return { status: no.length ? 'excluded' : pending.length ? 'pending' : 'match', reasons: [...no, ...pending] };
 }
@@ -29,6 +32,7 @@ export function sorted(items, sort) {
       const utility = x => Number(x.water === '台水' && x.electric === '台電');
       if (utility(a) !== utility(b)) return utility(b) - utility(a);
     }
+    if (sort === 'monthly') return ((a.rent ?? Infinity) + (a.managementFee ?? 0)) - ((b.rent ?? Infinity) + (b.managementFee ?? 0));
     if (sort === 'rent') return (a.rent ?? Infinity) - (b.rent ?? Infinity);
     return new Date(b.firstSeen) - new Date(a.firstSeen);
   });
