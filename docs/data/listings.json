@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T23:00:56.007204+00:00",
-  "lastCollectedAt": "2026-11-04T23:00:55.702784+00:00",
-  "totalCollected": 148,
+  "generatedAt": "2026-11-04T23:04:19.899925+00:00",
+  "lastCollectedAt": "2026-11-04T23:04:13.362757+00:00",
+  "totalCollected": 151,
   "sources": [
     {
       "id": "359576301158357",
@@ -51,6 +51,96 @@
     }
   ],
   "listings": [
+    {
+      "id": "346b91fcce87e8e1",
+      "contentFingerprint": "8cdc68672843b49d8ea4e9cc50f76fce6c6bc5495c1309049018e7318d714f65",
+      "url": "https://www.facebook.com/groups/1040396368050817/posts/1469673981789718/",
+      "sourceId": "1040396368050817",
+      "sourceName": "Facebook",
+      "title": "屋主自租•中山區建國北路三段“中山藝術紀社區”",
+      "district": "中山區",
+      "street": "建國北路三段",
+      "kind": "整層住家",
+      "rent": 55000,
+      "managementFee": 4127,
+      "extraFee": "",
+      "water": "待確認",
+      "electric": "台電",
+      "subsidy": "待確認",
+      "stationPriority": false,
+      "stationText": "",
+      "firstSeen": "2026-11-04T23:04:13.362757+00:00",
+      "lastSeen": "2026-11-04T23:04:13.362757+00:00",
+      "unavailable": false,
+      "nonListing": false,
+      "ambiguousPrice": false,
+      "images": [
+        "photos/346b91fcce87-2fddef809245e6.jpg",
+        "photos/346b91fcce87-1a3a8a503827be.jpg",
+        "photos/346b91fcce87-ba0789be469f09.jpg",
+        "photos/346b91fcce87-599c37d3fd732f.jpg",
+        "photos/346b91fcce87-a28e55c2d4a6c0.jpg"
+      ],
+      "location": null
+    },
+    {
+      "id": "2c1892578c26b2d7",
+      "contentFingerprint": "1c149e8e04574d0c401ed69b0aa89856d5f221bee0e24b5714dfbcf65fc6158a",
+      "url": "https://www.facebook.com/groups/459966811445588/posts/2401906560584927/",
+      "sourceId": "459966811445588",
+      "sourceName": "Facebook",
+      "title": "松江南京2分鐘",
+      "district": "中山區",
+      "street": "一江街",
+      "kind": "雅房",
+      "rent": null,
+      "managementFee": 0,
+      "extraFee": "",
+      "water": "待確認",
+      "electric": "待確認",
+      "subsidy": "待確認",
+      "stationPriority": false,
+      "stationText": "",
+      "firstSeen": "2026-11-04T23:03:26.854806+00:00",
+      "lastSeen": "2026-11-04T23:03:26.854806+00:00",
+      "unavailable": false,
+      "nonListing": false,
+      "ambiguousPrice": false,
+      "images": [
+        "photos/2c1892578c26-7440a7c6c5156d.jpg",
+        "photos/2c1892578c26-9b68f076a91e75.jpg",
+        "photos/2c1892578c26-05e76fe39e8d64.jpg",
+        "photos/2c1892578c26-ede662094ca4cc.jpg",
+        "photos/2c1892578c26-dfdf962b7eed84.jpg"
+      ],
+      "location": null
+    },
+    {
+      "id": "57d904fbdd788101",
+      "contentFingerprint": "a7193ea6eada43398312742514d472449c9fa08da8df082753c6de98faeb581c",
+      "url": "https://www.facebook.com/groups/1513936138926333/posts/4803055773347670/",
+      "sourceId": "1513936138926333",
+      "sourceName": "Facebook",
+      "title": "新店租屋 #七張捷運站 #一級冷暖空調 #氣密窗",
+      "district": "新店區",
+      "street": "建國路",
+      "kind": "共生合租",
+      "rent": 10700,
+      "managementFee": null,
+      "extraFee": "",
+      "water": "待確認",
+      "electric": "待確認",
+      "subsidy": "可租補",
+      "stationPriority": false,
+      "stationText": "",
+      "firstSeen": "2026-11-04T23:02:44.781549+00:00",
+      "lastSeen": "2026-11-04T23:02:44.781549+00:00",
+      "unavailable": false,
+      "nonListing": false,
+      "ambiguousPrice": true,
+      "images": [],
+      "location": null
+    },
     {
       "id": "2d3d61b0c1cf0fac",
       "contentFingerprint": "e4f4ab33bf520d7daafbaf623dd1faaf15cc44366e7a1111905f2cf675d79425",
@@ -4274,9 +4364,9 @@
     }
   ],
   "collector": {
-    "state": "partial",
-    "message": "Facebook 有 3 個社團待確認，已記錄暫停；其他來源依序更新。",
+    "state": "ready",
+    "message": "Cloud collection: 591 every 10min, Facebook every 2h.",
     "lastAttemptAt": "2026-11-04T23:00:13.335133+00:00",
-    "lastSuccessAt": "2026-11-04T23:00:55.738363+00:00"
+    "lastSuccessAt": "2026-11-04T23:04:19.739084+00:00"
   }
 }
