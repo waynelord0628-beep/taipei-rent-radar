@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T15:17:21.209601+00:00",
-  "lastCollectedAt": "2026-11-04T14:52:57.501107+00:00",
+  "generatedAt": "2026-11-04T15:22:30.927406+00:00",
+  "lastCollectedAt": "2026-11-04T15:22:30.809698+00:00",
   "totalCollected": 95,
   "sources": [
     {
@@ -1026,26 +1026,26 @@
       "street": "中山北路一段",
       "kind": "獨立套房",
       "rent": 16000,
-      "managementFee": null,
-      "extraFee": "來源列額外費用 900 元／月（項目需確認）",
-      "water": "待確認",
-      "electric": "待確認",
+      "managementFee": 900,
+      "extraFee": "來源列 900 元／月，與管理費同額，請確認是否同一筆，勿自行重複加計",
+      "water": "台水",
+      "electric": "台電",
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距中山 450 公尺",
       "firstSeen": "2026-11-04T14:22:29.957439+00:00",
-      "lastSeen": "2026-11-04T14:51:44.719334+00:00",
+      "lastSeen": "2026-11-04T15:22:30.809698+00:00",
       "unavailable": false,
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [
-        "photos/06ef6a7450b1-ec3827765fa099.jpg",
-        "photos/06ef6a7450b1-c99c1ff3e36896.jpg",
-        "photos/06ef6a7450b1-0b5cda69f21a3f.jpg",
-        "photos/06ef6a7450b1-59faa3f157d8e2.jpg",
-        "photos/06ef6a7450b1-1c67c6e8d11a4c.jpg"
+        "photos/06ef6a7450b1-ec3827765fa099.jpg"
       ],
-      "location": null
+      "location": {
+        "lat": 25.0491018,
+        "lng": 121.5224529,
+        "label": "來源提供的位置，非門牌保證"
+      }
     },
     {
       "id": "ec08b85d76137173",
@@ -1990,31 +1990,31 @@
       "url": "https://rent.591.com.tw/22279689",
       "sourceId": "591",
       "sourceName": "591",
-      "title": "漂亮裝潢⭐大橋頭站電梯採光美屋⭐有管理員",
+      "title": "漂亮裝潢⭐大橋頭站電梯採光美屋⭐有管理員 優選好屋",
       "district": "大同區",
-      "street": "歸綏街",
+      "street": "歸綏街 距迪化街",
       "kind": "獨立套房",
       "rent": 17000,
-      "managementFee": null,
-      "extraFee": "來源列額外費用 650 元／月（項目需確認）",
-      "water": "待確認",
-      "electric": "待確認",
+      "managementFee": 650,
+      "extraFee": "來源列 650 元／月，與管理費同額，請確認是否同一筆，勿自行重複加計",
+      "water": "台水",
+      "electric": "台電",
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距迪化街 347 公尺",
       "firstSeen": "2026-11-04T14:22:23.609718+00:00",
-      "lastSeen": "2026-11-04T14:51:38.094402+00:00",
+      "lastSeen": "2026-11-04T15:22:17.712842+00:00",
       "unavailable": false,
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [
-        "photos/a4521b8e1230-2eb9246a875bb4.jpg",
-        "photos/a4521b8e1230-8193ff01b79f9f.jpg",
-        "photos/a4521b8e1230-dd00d53e99b90b.jpg",
-        "photos/a4521b8e1230-7abe2880a20824.jpg",
-        "photos/a4521b8e1230-e1a81ecbd5a285.jpg"
+        "photos/a4521b8e1230-2eb9246a875bb4.jpg"
       ],
-      "location": null
+      "location": {
+        "lat": 25.0591552,
+        "lng": 121.5135218,
+        "label": "來源提供的位置，非門牌保證"
+      }
     },
     {
       "id": "28dd0d1882d42b17",
@@ -2811,9 +2811,9 @@
     }
   ],
   "collector": {
-    "state": "paused",
-    "message": "雲端來源拒絕存取（591 HTTP 403），自動更新已暫停；Facebook 尚未恢復。現有房源仍可瀏覽。",
-    "lastAttemptAt": "2026-11-04T15:17:15.618795+00:00",
-    "lastSuccessAt": null
+    "state": "ready",
+    "message": "雲端已完成本輪更新。",
+    "lastAttemptAt": "2026-11-04T15:21:48.768842+00:00",
+    "lastSuccessAt": "2026-11-04T15:22:30.823841+00:00"
   }
 }
