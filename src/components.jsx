@@ -23,7 +23,7 @@ export function Filters({ filters, setFilters, sources, total, lastCollectedAt, 
 }
 export function ListingRow({ item, assessment, favorite, onFavorite, onOpen, compact = false }) {
   const status = { match: '符合條件', pending: '待確認', excluded: '已排除' }[assessment.status];
-  return <article className={`listing-row ${compact ? 'compact' : ''}`}>
+  return <article className={`listing-row status-${assessment.status} ${compact ? 'compact' : ''}`}>
     <div className={`status ${assessment.status}`}>{status}</div>
     {item.images?.length > 0 && <button className="listing-photo" onClick={() => onOpen(item)} aria-label={`查看${item.title}的照片`}><img src={`${import.meta.env.BASE_URL}${item.images[0]}`} alt={`${item.title}的房間原圖`} loading="lazy"/><span>{item.images.length} 張</span></button>}
     <button className="listing-main" onClick={() => onOpen(item)}><h3>{item.title}</h3><p>{item.district} · {item.kind}{item.stationPriority && <span className="station-note"> · 民權西路站</span>}</p><div className="row-tags"><span>{item.subsidy}</span>{item.water === '台水' && item.electric === '台電' && <span>台水台電</span>}<span>{item.sourceName}</span></div></button>

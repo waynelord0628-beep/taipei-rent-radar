@@ -19,10 +19,10 @@ export default function MapView({ items, onOpen }) {
     const points=[];
     items.filter(x=>x.location).forEach(item=>{
       const {lat,lng}=item.location;points.push([lat,lng]);
-      const label=document.createElement('div');label.className='map-price';label.textContent=item.rent==null?'待確認':`$${money(item.rent)}`;
+      const label=document.createElement('div');label.className=`map-price ${item.assessment?.status || 'pending'}`;label.textContent=item.rent==null?'待確認':`$${money(item.rent)}`;
       const popup=document.createElement('div');popup.className='map-popup';
       const heading=document.createElement('strong');heading.textContent=item.title;
-      const detail=document.createElement('p');detail.textContent=`${item.district} · ${item.subsidy} · ${item.location.label}`;
+      const detail=document.createElement('p');detail.textContent=`${item.assessment?.status==='match'?'符合條件':item.assessment?.status==='pending'?'待確認':'已排除'} · ${item.district} · ${item.subsidy} · ${item.location.label}`;
       const action=document.createElement('button');action.textContent='查看物件與照片';action.addEventListener('click',()=>onOpen(item));
       popup.append(heading,detail,action);
       L.marker([lat,lng],{title:item.title,icon:L.divIcon({className:'price-marker',html:label,iconSize:[90,32],iconAnchor:[45,16]})}).addTo(markers.current).bindPopup(popup);

@@ -22,6 +22,8 @@ export function assess(item, filters) {
 }
 export function sorted(items, sort) {
   return [...items].sort((a, b) => {
+    const rank = x => ({match:0,pending:1,excluded:2}[x.assessment?.status] ?? 1);
+    if (['station','utilities'].includes(sort) && rank(a)!==rank(b)) return rank(a)-rank(b);
     if (sort === 'station' && a.stationPriority !== b.stationPriority) return Number(b.stationPriority) - Number(a.stationPriority);
     if (['station', 'utilities'].includes(sort)) {
       const utility = x => Number(x.water === '台水' && x.electric === '台電');
