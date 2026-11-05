@@ -15,7 +15,7 @@ export function metersBetween(a,b) {
 export function stationProfile(item) {
   const point=item.location;
   const valid=point && Number.isFinite(point.lat)&&Number.isFinite(point.lng)&&point.lat>24.9&&point.lat<25.3&&point.lng>121.3&&point.lng<121.8;
-  const mentions=[...(item.mentionedStations || targetStations.map(x=>x.name).filter(name=>new RegExp(`${name}(?:捷運)?站|捷運\\s*${name}|距${name}\\s*\\d+公尺`).test(`${item.title || ''} ${item.stationText || ''}`)))];
+  const mentions=[...(item.mentionedStations || targetStations.map(x=>x.name).filter(name=>new RegExp(`${name}(?:捷運)?站|${name}捷運|捷運\\s*${name}(?!國小|國中)|距${name}\\s*\\d+公尺`).test(`${item.title || ''} ${item.stationText || ''}`)))];
   if(!mentions.length&&item.stationPriority)mentions.push('民權西路');
   if(valid) {
     const distances=targetStations.map(station=>({...station,meters:Math.min(...station.exits.map(exit=>metersBetween(point,exit)))})).sort((a,b)=>a.meters-b.meters);

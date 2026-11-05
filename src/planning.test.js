@@ -58,3 +58,5 @@ test('viewing overlap catches collisions but permits adjacent appointments',()=>
   assert.deepEqual(overlappingPlans([a,{...a,id:'b',datetime:'2026-11-06T15:30'}]),[['a','b']]);
   assert.deepEqual(overlappingPlans([a,{...a,id:'b',datetime:'2026-11-06T15:45'}]),[]);
 });
+
+test('station text never truncates Zhongshan Junior High to Zhongshan',()=>{assert.equal(stationProfile({title:'捷運中山國中【超值租案】'}).origin,'');assert.equal(stationProfile({title:'捷運中山國小'}).origin,'中山國小');assert.equal(stationProfile({title:'近松江南京捷運'}).origin,'松江南京');});
