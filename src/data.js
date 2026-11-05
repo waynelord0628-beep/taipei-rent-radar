@@ -32,6 +32,7 @@ export function sorted(items, sort) {
       const utility = x => Number(x.water === '台水' && x.electric === '台電');
       if (utility(a) !== utility(b)) return utility(b) - utility(a);
     }
+    if (sort === 'changes') return new Date(b.lastChangedAt || b.firstSeen) - new Date(a.lastChangedAt || a.firstSeen);
     if (sort === 'monthly') return ((a.rent ?? Infinity) + (a.managementFee ?? 0)) - ((b.rent ?? Infinity) + (b.managementFee ?? 0));
     if (sort === 'rent') return (a.rent ?? Infinity) - (b.rent ?? Infinity);
     return new Date(b.firstSeen) - new Date(a.firstSeen);

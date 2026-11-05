@@ -14,6 +14,7 @@ export function costBreakdown(item) {
 
 export function questions(item) {
   const values = [];
+  if (item.conflicts?.length) values.push('不同來源條件不一致');
   if (item.subsidy !== '可租補') values.push('是否可租補');
   if (item.managementFee == null) values.push('管理費');
   if (!item.water || item.water === '待確認') values.push('水費');
