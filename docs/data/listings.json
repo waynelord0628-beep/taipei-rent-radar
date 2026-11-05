@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-05T01:22:03.835238+00:00",
+  "generatedAt": "2026-11-05T01:23:24.175195+00:00",
   "historyTrackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
   "lastCollectedAt": "2026-11-05T01:21:29.667669+00:00",
   "totalCollected": 163,
@@ -69,7 +69,10 @@
       "electric": "待確認",
       "subsidy": "待確認",
       "stationPriority": false,
-      "stationText": "",
+      "stationText": "原文明列大橋頭站，距離待確認",
+      "mentionedStations": [
+        "大橋頭"
+      ],
       "firstSeen": "2026-11-05T01:21:29.667669+00:00",
       "lastSeen": "2026-11-05T01:21:29.667669+00:00",
       "unavailable": false,
@@ -84,6 +87,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_text",
@@ -93,8 +101,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T01:22:03.807004+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 160,
+            "time": "2026-11-05T01:23:24.150706+00:00",
+            "type": "interpretation",
+            "changes": [
+              {
+                "field": "stationText",
+                "before": "",
+                "after": "原文明列大橋頭站，距離待確認"
+              }
+            ]
+          },
           {
             "id": 150,
             "time": "2026-11-05T01:22:03.807004+00:00",
@@ -136,6 +156,7 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-05T01:17:58.919405+00:00",
       "lastSeen": "2026-11-05T01:17:58.919405+00:00",
       "unavailable": false,
@@ -144,6 +165,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_text",
@@ -200,6 +226,9 @@
       "subsidy": "可租補",
       "stationPriority": true,
       "stationText": "原文明列民權西路站，距離待確認",
+      "mentionedStations": [
+        "民權西路"
+      ],
       "firstSeen": "2026-11-05T01:17:58.918107+00:00",
       "lastSeen": "2026-11-05T01:17:58.918107+00:00",
       "unavailable": false,
@@ -210,6 +239,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [],
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
@@ -257,6 +291,7 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-05T01:17:58.866907+00:00",
       "lastSeen": "2026-11-05T01:17:58.866907+00:00",
       "unavailable": false,
@@ -265,6 +300,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_text",
@@ -321,6 +361,7 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-05T01:16:35.035231+00:00",
       "lastSeen": "2026-11-05T01:16:35.035231+00:00",
       "unavailable": false,
@@ -329,6 +370,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_text",
@@ -385,6 +431,9 @@
       "subsidy": "可租補",
       "stationPriority": true,
       "stationText": "原文明列民權西路站，距離待確認",
+      "mentionedStations": [
+        "民權西路"
+      ],
       "firstSeen": "2026-11-05T01:16:35.034013+00:00",
       "lastSeen": "2026-11-05T01:16:35.034013+00:00",
       "unavailable": false,
@@ -395,6 +444,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [],
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
@@ -442,6 +496,7 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-05T01:16:11.243032+00:00",
       "lastSeen": "2026-11-05T01:16:11.243032+00:00",
       "unavailable": false,
@@ -450,6 +505,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_text",
@@ -506,6 +566,7 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-05T01:14:48.566409+00:00",
       "lastSeen": "2026-11-05T01:14:48.566409+00:00",
       "unavailable": false,
@@ -514,6 +575,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_text",
@@ -570,6 +636,9 @@
       "subsidy": "可租補",
       "stationPriority": true,
       "stationText": "原文明列民權西路站，距離待確認",
+      "mentionedStations": [
+        "民權西路"
+      ],
       "firstSeen": "2026-11-05T01:12:04.061057+00:00",
       "lastSeen": "2026-11-05T01:12:04.061057+00:00",
       "unavailable": false,
@@ -580,6 +649,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [],
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
@@ -627,6 +701,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距中山國中 511 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-05T00:50:51.400769+00:00",
       "lastSeen": "2026-11-05T00:50:51.400769+00:00",
       "unavailable": false,
@@ -635,6 +710,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -687,6 +767,9 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距雙連 91 公尺",
+      "mentionedStations": [
+        "雙連"
+      ],
       "firstSeen": "2026-11-05T00:50:51.400100+00:00",
       "lastSeen": "2026-11-05T00:50:51.400100+00:00",
       "unavailable": false,
@@ -695,6 +778,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -746,7 +834,10 @@
       "electric": "台電",
       "subsidy": "待確認",
       "stationPriority": false,
-      "stationText": "",
+      "stationText": "原文明列行天宮站，距離待確認",
+      "mentionedStations": [
+        "行天宮"
+      ],
       "firstSeen": "2026-11-04T23:04:13.362757+00:00",
       "lastSeen": "2026-11-05T01:18:44.652052+00:00",
       "unavailable": false,
@@ -761,6 +852,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_text",
@@ -774,8 +870,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 161,
+            "time": "2026-11-05T01:23:24.150706+00:00",
+            "type": "interpretation",
+            "changes": [
+              {
+                "field": "stationText",
+                "before": "",
+                "after": "原文明列行天宮站，距離待確認"
+              }
+            ]
+          },
           {
             "id": 1,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -816,7 +924,10 @@
       "electric": "待確認",
       "subsidy": "待確認",
       "stationPriority": false,
-      "stationText": "",
+      "stationText": "原文明列松江南京站，距離待確認",
+      "mentionedStations": [
+        "松江南京"
+      ],
       "firstSeen": "2026-11-04T23:03:26.854806+00:00",
       "lastSeen": "2026-11-04T23:03:26.854806+00:00",
       "unavailable": false,
@@ -831,6 +942,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_text",
@@ -840,8 +956,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 162,
+            "time": "2026-11-05T01:23:24.150706+00:00",
+            "type": "interpretation",
+            "changes": [
+              {
+                "field": "stationText",
+                "before": "",
+                "after": "原文明列松江南京站，距離待確認"
+              }
+            ]
+          },
           {
             "id": 2,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -883,6 +1011,7 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T23:02:44.781549+00:00",
       "lastSeen": "2026-11-04T23:02:44.781549+00:00",
       "unavailable": false,
@@ -891,6 +1020,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_text",
@@ -943,6 +1077,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T22:22:21.594641+00:00",
       "lastSeen": "2026-11-04T22:22:21.594641+00:00",
       "unavailable": false,
@@ -951,6 +1086,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_text",
@@ -1003,6 +1143,7 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T20:15:58.309004+00:00",
       "lastSeen": "2026-11-04T22:24:29.507648+00:00",
       "unavailable": false,
@@ -1011,6 +1152,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [],
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
@@ -1058,6 +1204,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距大直 245 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T19:50:46.641352+00:00",
       "lastSeen": "2026-11-04T19:50:46.641352+00:00",
       "unavailable": false,
@@ -1066,6 +1213,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -1126,6 +1278,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距中山國中 580 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T19:20:57.450655+00:00",
       "lastSeen": "2026-11-04T19:20:57.450655+00:00",
       "unavailable": false,
@@ -1134,6 +1287,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -1186,6 +1344,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距捷運劍南路站 56 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T19:00:56.963181+00:00",
       "lastSeen": "2026-11-04T19:00:56.963181+00:00",
       "unavailable": false,
@@ -1194,6 +1353,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -1246,6 +1410,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距中山國中 579 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T18:50:43.946405+00:00",
       "lastSeen": "2026-11-04T18:50:43.946405+00:00",
       "unavailable": false,
@@ -1254,6 +1419,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -1306,6 +1476,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T18:34:22.064793+00:00",
       "lastSeen": "2026-11-04T22:28:17.402509+00:00",
       "unavailable": false,
@@ -1314,6 +1485,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [],
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
@@ -1361,6 +1537,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T18:34:10.769003+00:00",
       "lastSeen": "2026-11-04T22:28:03.707769+00:00",
       "unavailable": false,
@@ -1369,6 +1546,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_text",
@@ -1421,14 +1603,20 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T18:32:56.427079+00:00",
       "lastSeen": "2026-11-05T01:20:40.016674+00:00",
-      "unavailable": true,
+      "unavailable": false,
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_text",
@@ -1438,8 +1626,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 163,
+            "time": "2026-11-05T01:23:24.150706+00:00",
+            "type": "interpretation",
+            "changes": [
+              {
+                "field": "unavailable",
+                "before": true,
+                "after": false
+              }
+            ]
+          },
           {
             "id": 12,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -1481,6 +1681,7 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T18:32:35.623449+00:00",
       "lastSeen": "2026-11-05T01:20:40.015241+00:00",
       "unavailable": false,
@@ -1489,6 +1690,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_text",
@@ -1545,6 +1751,7 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T18:31:40.323716+00:00",
       "lastSeen": "2026-11-04T20:17:23.860000+00:00",
       "unavailable": false,
@@ -1553,6 +1760,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_text",
@@ -1605,6 +1817,7 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T18:31:24.649048+00:00",
       "lastSeen": "2026-11-05T01:19:15.754443+00:00",
       "unavailable": false,
@@ -1613,6 +1826,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [],
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
@@ -1660,6 +1878,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T18:30:13.581013+00:00",
       "lastSeen": "2026-11-04T18:30:13.581013+00:00",
       "unavailable": false,
@@ -1668,6 +1887,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [],
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
@@ -1715,6 +1939,7 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T18:29:52.255814+00:00",
       "lastSeen": "2026-11-04T18:29:52.255814+00:00",
       "unavailable": false,
@@ -1723,6 +1948,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_text",
@@ -1779,6 +2009,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距小巨蛋捷運站約 600 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T18:28:39.808663+00:00",
       "lastSeen": "2026-11-04T22:23:17.741179+00:00",
       "unavailable": false,
@@ -1787,6 +2018,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [],
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
@@ -1834,6 +2070,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T18:27:35.306773+00:00",
       "lastSeen": "2026-11-04T18:27:35.306773+00:00",
       "unavailable": false,
@@ -1842,6 +2079,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -1902,6 +2144,7 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T18:13:29.845168+00:00",
       "lastSeen": "2026-11-04T18:13:29.845168+00:00",
       "unavailable": false,
@@ -1910,6 +2153,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_text",
@@ -1962,6 +2210,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T18:13:08.731860+00:00",
       "lastSeen": "2026-11-04T20:13:06.710021+00:00",
       "unavailable": false,
@@ -1970,6 +2219,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_text",
@@ -2022,6 +2276,7 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T18:11:54.138424+00:00",
       "lastSeen": "2026-11-04T18:11:54.138424+00:00",
       "unavailable": false,
@@ -2030,6 +2285,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_text",
@@ -2086,6 +2346,9 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "原文明列距松江南京 385 公尺",
+      "mentionedStations": [
+        "松江南京"
+      ],
       "firstSeen": "2026-11-04T18:10:45.482489+00:00",
       "lastSeen": "2026-11-04T18:10:45.482489+00:00",
       "unavailable": false,
@@ -2094,6 +2357,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -2146,6 +2414,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距南京復興 531 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T18:00:47.874713+00:00",
       "lastSeen": "2026-11-04T18:00:47.874713+00:00",
       "unavailable": false,
@@ -2154,6 +2423,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -2206,6 +2480,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距大直 151 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T17:50:49.963456+00:00",
       "lastSeen": "2026-11-04T17:50:49.963456+00:00",
       "unavailable": false,
@@ -2214,6 +2489,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -2266,6 +2546,9 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "原文明列距大橋頭 564 公尺",
+      "mentionedStations": [
+        "大橋頭"
+      ],
       "firstSeen": "2026-11-04T17:40:49.421255+00:00",
       "lastSeen": "2026-11-04T17:40:49.421255+00:00",
       "unavailable": false,
@@ -2274,6 +2557,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -2334,6 +2622,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距南京新生北路口 34 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T17:20:52.833886+00:00",
       "lastSeen": "2026-11-04T17:20:52.833886+00:00",
       "unavailable": false,
@@ -2342,6 +2631,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -2394,6 +2688,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距中山國中 600 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T17:20:52.833558+00:00",
       "lastSeen": "2026-11-04T17:20:52.833558+00:00",
       "unavailable": false,
@@ -2402,6 +2697,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -2454,6 +2754,9 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "原文明列距雙連 218 公尺",
+      "mentionedStations": [
+        "雙連"
+      ],
       "firstSeen": "2026-11-04T17:20:52.832925+00:00",
       "lastSeen": "2026-11-04T17:20:52.832925+00:00",
       "unavailable": false,
@@ -2462,6 +2765,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -2514,6 +2822,9 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距中山國小 402 公尺",
+      "mentionedStations": [
+        "中山國小"
+      ],
       "firstSeen": "2026-11-04T17:10:54.359313+00:00",
       "lastSeen": "2026-11-04T17:10:54.359313+00:00",
       "unavailable": false,
@@ -2522,6 +2833,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -2582,6 +2898,10 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距松江南京 624 公尺",
+      "mentionedStations": [
+        "中山",
+        "松江南京"
+      ],
       "firstSeen": "2026-11-04T17:10:54.359078+00:00",
       "lastSeen": "2026-11-04T17:10:54.359078+00:00",
       "unavailable": false,
@@ -2590,6 +2910,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -2642,6 +2967,9 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距中山國小 619 公尺",
+      "mentionedStations": [
+        "中山國小"
+      ],
       "firstSeen": "2026-11-04T17:10:54.358796+00:00",
       "lastSeen": "2026-11-04T17:10:54.358796+00:00",
       "unavailable": false,
@@ -2650,6 +2978,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -2702,6 +3035,9 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距雙連 96 公尺",
+      "mentionedStations": [
+        "雙連"
+      ],
       "firstSeen": "2026-11-04T17:10:54.358376+00:00",
       "lastSeen": "2026-11-04T17:10:54.358376+00:00",
       "unavailable": false,
@@ -2710,6 +3046,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -2762,6 +3103,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距榮星花園 270 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T17:10:54.353788+00:00",
       "lastSeen": "2026-11-04T17:10:54.353788+00:00",
       "unavailable": false,
@@ -2770,6 +3112,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -2822,6 +3169,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距中山國中 354 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T17:10:54.353476+00:00",
       "lastSeen": "2026-11-04T17:10:54.353476+00:00",
       "unavailable": false,
@@ -2830,6 +3178,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -2882,6 +3235,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距善導寺 510 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T17:10:54.352853+00:00",
       "lastSeen": "2026-11-04T17:10:54.352853+00:00",
       "unavailable": false,
@@ -2890,6 +3244,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -2942,6 +3301,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距中山國中 600 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T17:00:55.104525+00:00",
       "lastSeen": "2026-11-04T17:00:55.104525+00:00",
       "unavailable": false,
@@ -2950,6 +3310,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -3010,6 +3375,9 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距中山國中 538 公尺",
+      "mentionedStations": [
+        "行天宮"
+      ],
       "firstSeen": "2026-11-04T17:00:55.104180+00:00",
       "lastSeen": "2026-11-04T17:00:55.104180+00:00",
       "unavailable": false,
@@ -3018,6 +3386,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -3070,6 +3443,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距捷運大直站 169 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T17:00:55.103840+00:00",
       "lastSeen": "2026-11-04T17:00:55.103840+00:00",
       "unavailable": false,
@@ -3078,6 +3452,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -3138,6 +3517,9 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "原文明列距松江南京 171 公尺",
+      "mentionedStations": [
+        "松江南京"
+      ],
       "firstSeen": "2026-11-04T17:00:55.103578+00:00",
       "lastSeen": "2026-11-04T17:00:55.103578+00:00",
       "unavailable": false,
@@ -3146,6 +3528,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -3198,6 +3585,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距中山國中 418 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T17:00:55.103292+00:00",
       "lastSeen": "2026-11-04T17:00:55.103292+00:00",
       "unavailable": false,
@@ -3206,6 +3594,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -3258,6 +3651,9 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距行天宮 406 公尺",
+      "mentionedStations": [
+        "行天宮"
+      ],
       "firstSeen": "2026-11-04T17:00:55.103040+00:00",
       "lastSeen": "2026-11-04T17:00:55.103040+00:00",
       "unavailable": false,
@@ -3266,6 +3662,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -3326,6 +3727,9 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "原文明列距中山國小 311 公尺",
+      "mentionedStations": [
+        "中山國小"
+      ],
       "firstSeen": "2026-11-04T17:00:55.102802+00:00",
       "lastSeen": "2026-11-04T17:00:55.102802+00:00",
       "unavailable": false,
@@ -3334,6 +3738,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -3394,6 +3803,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距南京復興 583 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T17:00:55.102543+00:00",
       "lastSeen": "2026-11-04T17:00:55.102543+00:00",
       "unavailable": false,
@@ -3402,6 +3812,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -3454,6 +3869,9 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距中山 384 公尺",
+      "mentionedStations": [
+        "中山"
+      ],
       "firstSeen": "2026-11-04T17:00:55.102287+00:00",
       "lastSeen": "2026-11-04T17:00:55.102287+00:00",
       "unavailable": false,
@@ -3462,6 +3880,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -3514,6 +3937,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距建北站 130 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T17:00:55.102037+00:00",
       "lastSeen": "2026-11-04T17:00:55.102037+00:00",
       "unavailable": false,
@@ -3522,6 +3946,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -3574,6 +4003,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距南京新生北路口 20 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T17:00:55.101657+00:00",
       "lastSeen": "2026-11-04T17:00:55.101657+00:00",
       "unavailable": false,
@@ -3582,6 +4012,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -3634,6 +4069,9 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距大橋頭 746 公尺",
+      "mentionedStations": [
+        "大橋頭"
+      ],
       "firstSeen": "2026-11-04T17:00:55.101391+00:00",
       "lastSeen": "2026-11-04T17:00:55.101391+00:00",
       "unavailable": false,
@@ -3642,6 +4080,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -3694,6 +4137,7 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "原文明列距台北車站 35 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T17:00:55.101151+00:00",
       "lastSeen": "2026-11-04T17:00:55.101151+00:00",
       "unavailable": false,
@@ -3702,6 +4146,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -3754,6 +4203,7 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T17:00:55.100852+00:00",
       "lastSeen": "2026-11-04T17:00:55.100852+00:00",
       "unavailable": false,
@@ -3762,6 +4212,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -3822,6 +4277,9 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距雙連 188 公尺",
+      "mentionedStations": [
+        "雙連"
+      ],
       "firstSeen": "2026-11-04T17:00:55.100501+00:00",
       "lastSeen": "2026-11-04T17:00:55.100501+00:00",
       "unavailable": false,
@@ -3830,6 +4288,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -3882,6 +4345,9 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距大橋頭 746 公尺",
+      "mentionedStations": [
+        "大橋頭"
+      ],
       "firstSeen": "2026-11-04T17:00:55.099897+00:00",
       "lastSeen": "2026-11-04T17:00:55.099897+00:00",
       "unavailable": false,
@@ -3890,6 +4356,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -3941,7 +4412,11 @@
       "electric": "台電",
       "subsidy": "可租補",
       "stationPriority": true,
-      "stationText": "原文明列民權西路站，距離待確認",
+      "stationText": "原文明列距大橋頭 257 公尺",
+      "mentionedStations": [
+        "民權西路",
+        "大橋頭"
+      ],
       "firstSeen": "2026-11-04T17:00:41.891387+00:00",
       "lastSeen": "2026-11-04T23:50:55.117653+00:00",
       "unavailable": false,
@@ -3956,6 +4431,11 @@
         "label": "來源提供的位置，非門牌保證"
       },
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -3973,8 +4453,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 164,
+            "time": "2026-11-05T01:23:24.150706+00:00",
+            "type": "interpretation",
+            "changes": [
+              {
+                "field": "stationText",
+                "before": "原文明列民權西路站，距離待確認",
+                "after": "原文明列距大橋頭 257 公尺"
+              }
+            ]
+          },
           {
             "id": 52,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -4015,7 +4507,11 @@
       "electric": "待確認",
       "subsidy": "可租補",
       "stationPriority": true,
-      "stationText": "原文明列民權西路站，距離待確認",
+      "stationText": "原文明列距大橋頭 257 公尺",
+      "mentionedStations": [
+        "民權西路",
+        "大橋頭"
+      ],
       "firstSeen": "2026-11-04T16:10:52.597493+00:00",
       "lastSeen": "2026-11-05T01:10:43.867611+00:00",
       "unavailable": false,
@@ -4028,6 +4524,11 @@
         "label": "來源提供的位置，非門牌保證"
       },
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -4045,8 +4546,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 165,
+            "time": "2026-11-05T01:23:24.150706+00:00",
+            "type": "interpretation",
+            "changes": [
+              {
+                "field": "stationText",
+                "before": "原文明列民權西路站，距離待確認",
+                "after": "原文明列距大橋頭 257 公尺"
+              }
+            ]
+          },
           {
             "id": 53,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -4088,6 +4601,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T15:47:29.908695+00:00",
       "lastSeen": "2026-11-04T15:47:29.908695+00:00",
       "unavailable": false,
@@ -4096,6 +4610,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_text",
@@ -4148,6 +4667,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距大直 186 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:51:48.138628+00:00",
       "lastSeen": "2026-11-04T14:51:48.138628+00:00",
       "unavailable": false,
@@ -4162,6 +4682,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -4214,6 +4739,9 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距松江南京 598 公尺",
+      "mentionedStations": [
+        "松江南京"
+      ],
       "firstSeen": "2026-11-04T14:51:46.167151+00:00",
       "lastSeen": "2026-11-04T14:51:46.167151+00:00",
       "unavailable": false,
@@ -4228,6 +4756,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -4280,6 +4813,9 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距行天宮 196 公尺",
+      "mentionedStations": [
+        "行天宮"
+      ],
       "firstSeen": "2026-11-04T14:33:37.486048+00:00",
       "lastSeen": "2026-11-04T14:33:37.486048+00:00",
       "unavailable": false,
@@ -4294,6 +4830,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -4346,6 +4887,9 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距善導寺 601 公尺",
+      "mentionedStations": [
+        "中山"
+      ],
       "firstSeen": "2026-11-04T14:32:52.586322+00:00",
       "lastSeen": "2026-11-04T14:51:44.746420+00:00",
       "unavailable": false,
@@ -4360,6 +4904,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -4412,6 +4961,7 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "原文明列距大直加油站 12 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:22:29.959135+00:00",
       "lastSeen": "2026-11-04T14:33:35.862213+00:00",
       "unavailable": false,
@@ -4426,6 +4976,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -4478,6 +5033,9 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "原文明列距松江南京 213 公尺",
+      "mentionedStations": [
+        "松江南京"
+      ],
       "firstSeen": "2026-11-04T14:22:29.959081+00:00",
       "lastSeen": "2026-11-04T14:22:29.959081+00:00",
       "unavailable": false,
@@ -4486,6 +5044,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -4538,6 +5101,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距南京復興 602 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:22:29.959028+00:00",
       "lastSeen": "2026-11-04T14:22:29.959028+00:00",
       "unavailable": false,
@@ -4546,6 +5110,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -4598,6 +5167,9 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距松江南京 90 公尺",
+      "mentionedStations": [
+        "松江南京"
+      ],
       "firstSeen": "2026-11-04T14:22:29.958970+00:00",
       "lastSeen": "2026-11-04T14:51:48.141787+00:00",
       "unavailable": true,
@@ -4612,6 +5184,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -4664,6 +5241,9 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距行天宮 307 公尺",
+      "mentionedStations": [
+        "行天宮"
+      ],
       "firstSeen": "2026-11-04T14:22:29.958885+00:00",
       "lastSeen": "2026-11-04T14:51:44.793273+00:00",
       "unavailable": false,
@@ -4678,6 +5258,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -4730,6 +5315,9 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距中山 560 公尺",
+      "mentionedStations": [
+        "中山"
+      ],
       "firstSeen": "2026-11-04T14:22:29.958820+00:00",
       "lastSeen": "2026-11-04T14:51:44.787385+00:00",
       "unavailable": false,
@@ -4744,6 +5332,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -4804,6 +5397,9 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距雙連 252 公尺",
+      "mentionedStations": [
+        "雙連"
+      ],
       "firstSeen": "2026-11-04T14:22:29.958767+00:00",
       "lastSeen": "2026-11-04T14:51:44.790440+00:00",
       "unavailable": false,
@@ -4818,6 +5414,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -4870,6 +5471,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距南京新生北路口 69 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:22:29.958717+00:00",
       "lastSeen": "2026-11-04T14:51:44.784581+00:00",
       "unavailable": false,
@@ -4884,6 +5486,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -4944,6 +5551,9 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距行天宮 196 公尺",
+      "mentionedStations": [
+        "行天宮"
+      ],
       "firstSeen": "2026-11-04T14:22:29.958664+00:00",
       "lastSeen": "2026-11-04T14:51:44.781329+00:00",
       "unavailable": false,
@@ -4958,6 +5568,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -5010,6 +5625,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距捷運劍南路站 56 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:22:29.958613+00:00",
       "lastSeen": "2026-11-04T14:51:44.777998+00:00",
       "unavailable": false,
@@ -5024,6 +5640,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -5076,6 +5697,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距善導寺 499 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:22:29.958560+00:00",
       "lastSeen": "2026-11-04T14:51:44.774648+00:00",
       "unavailable": false,
@@ -5090,6 +5712,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -5150,6 +5777,9 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "原文明列距大都會客運建北站 148 公尺",
+      "mentionedStations": [
+        "行天宮"
+      ],
       "firstSeen": "2026-11-04T14:22:29.958502+00:00",
       "lastSeen": "2026-11-04T14:52:50.030532+00:00",
       "unavailable": false,
@@ -5168,6 +5798,11 @@
         "label": "來源提供的位置，非門牌保證"
       },
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -5228,6 +5863,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距捷運劍南路站 56 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:22:29.958451+00:00",
       "lastSeen": "2026-11-04T14:51:44.768738+00:00",
       "unavailable": false,
@@ -5242,6 +5878,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -5294,6 +5935,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距中山國中 711 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:22:29.958400+00:00",
       "lastSeen": "2026-11-04T14:51:44.765851+00:00",
       "unavailable": false,
@@ -5308,6 +5950,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -5360,6 +6007,9 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距雙連 258 公尺",
+      "mentionedStations": [
+        "雙連"
+      ],
       "firstSeen": "2026-11-04T14:22:29.958347+00:00",
       "lastSeen": "2026-11-04T14:51:44.762563+00:00",
       "unavailable": false,
@@ -5373,6 +6023,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -5425,6 +6080,9 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距松江南京 351 公尺",
+      "mentionedStations": [
+        "松江南京"
+      ],
       "firstSeen": "2026-11-04T14:22:29.958292+00:00",
       "lastSeen": "2026-11-04T14:52:46.154355+00:00",
       "unavailable": false,
@@ -5443,6 +6101,11 @@
         "label": "來源提供的位置，非門牌保證"
       },
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -5502,7 +6165,10 @@
       "electric": "台電",
       "subsidy": "可租補",
       "stationPriority": false,
-      "stationText": "",
+      "stationText": "原文明列中山站，距離待確認",
+      "mentionedStations": [
+        "中山"
+      ],
       "firstSeen": "2026-11-04T14:22:29.958231+00:00",
       "lastSeen": "2026-11-05T00:00:47.159934+00:00",
       "unavailable": false,
@@ -5521,6 +6187,11 @@
         "label": "來源提供的位置，非門牌保證"
       },
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -5538,8 +6209,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 166,
+            "time": "2026-11-05T01:23:24.150706+00:00",
+            "type": "interpretation",
+            "changes": [
+              {
+                "field": "stationText",
+                "before": "",
+                "after": "原文明列中山站，距離待確認"
+              }
+            ]
+          },
           {
             "id": 75,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -5581,6 +6264,9 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距中山國小 364 公尺",
+      "mentionedStations": [
+        "中山國小"
+      ],
       "firstSeen": "2026-11-04T14:22:29.958176+00:00",
       "lastSeen": "2026-11-04T14:51:44.753926+00:00",
       "unavailable": false,
@@ -5595,6 +6281,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -5647,6 +6338,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距善導寺 591 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:22:29.958114+00:00",
       "lastSeen": "2026-11-04T14:51:44.750868+00:00",
       "unavailable": false,
@@ -5661,6 +6353,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -5712,7 +6409,12 @@
       "electric": "待確認",
       "subsidy": "待確認",
       "stationPriority": true,
-      "stationText": "原文明列民權西路站，距離待確認",
+      "stationText": "原文明列距雙連 179 公尺",
+      "mentionedStations": [
+        "民權西路",
+        "雙連",
+        "中山國小"
+      ],
       "firstSeen": "2026-11-04T14:22:29.958035+00:00",
       "lastSeen": "2026-11-05T01:00:51.218743+00:00",
       "unavailable": false,
@@ -5731,6 +6433,11 @@
         "label": "來源提供的位置，非門牌保證"
       },
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -5748,8 +6455,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 167,
+            "time": "2026-11-05T01:23:24.150706+00:00",
+            "type": "interpretation",
+            "changes": [
+              {
+                "field": "stationText",
+                "before": "原文明列民權西路站，距離待確認",
+                "after": "原文明列距雙連 179 公尺"
+              }
+            ]
+          },
           {
             "id": 78,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -5791,6 +6510,9 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "原文明列距雙連 575 公尺",
+      "mentionedStations": [
+        "雙連"
+      ],
       "firstSeen": "2026-11-04T14:22:29.957980+00:00",
       "lastSeen": "2026-11-04T14:52:41.947684+00:00",
       "unavailable": false,
@@ -5808,6 +6530,11 @@
         "label": "來源提供的位置，非門牌保證"
       },
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -5868,6 +6595,9 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距中山國小 388 公尺",
+      "mentionedStations": [
+        "中山國小"
+      ],
       "firstSeen": "2026-11-04T14:22:29.957928+00:00",
       "lastSeen": "2026-11-04T14:51:44.729742+00:00",
       "unavailable": false,
@@ -5881,6 +6611,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -5933,6 +6668,9 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距松江南京 474 公尺",
+      "mentionedStations": [
+        "松江南京"
+      ],
       "firstSeen": "2026-11-04T14:22:29.957860+00:00",
       "lastSeen": "2026-11-04T14:51:44.736639+00:00",
       "unavailable": false,
@@ -5947,6 +6685,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -5999,6 +6742,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距中山國中 452 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:22:29.957788+00:00",
       "lastSeen": "2026-11-04T14:51:44.739787+00:00",
       "unavailable": false,
@@ -6013,6 +6757,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -6073,6 +6822,9 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距行天宮 314 公尺",
+      "mentionedStations": [
+        "行天宮"
+      ],
       "firstSeen": "2026-11-04T14:22:29.957682+00:00",
       "lastSeen": "2026-11-04T14:51:44.726943+00:00",
       "unavailable": false,
@@ -6087,6 +6839,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -6139,6 +6896,7 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "原文明列距南京新生北路口 103 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:22:29.957622+00:00",
       "lastSeen": "2026-11-04T14:52:38.143720+00:00",
       "unavailable": false,
@@ -6154,6 +6912,11 @@
         "label": "來源提供的位置，非門牌保證"
       },
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -6214,6 +6977,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距善導寺 625 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:22:29.957554+00:00",
       "lastSeen": "2026-11-04T14:51:44.722048+00:00",
       "unavailable": false,
@@ -6226,6 +6990,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -6286,6 +7055,9 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距中山 450 公尺",
+      "mentionedStations": [
+        "中山"
+      ],
       "firstSeen": "2026-11-04T14:22:29.957439+00:00",
       "lastSeen": "2026-11-04T16:30:46.768147+00:00",
       "unavailable": false,
@@ -6304,6 +7076,11 @@
         "label": "來源提供的位置，非門牌保證"
       },
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -6364,6 +7141,9 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "原文明列距中山 152 公尺",
+      "mentionedStations": [
+        "中山"
+      ],
       "firstSeen": "2026-11-04T14:22:29.957343+00:00",
       "lastSeen": "2026-11-04T16:50:52.794183+00:00",
       "unavailable": false,
@@ -6382,6 +7162,11 @@
         "label": "來源提供的位置，非門牌保證"
       },
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -6442,6 +7227,9 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "原文明列距雙連 572 公尺",
+      "mentionedStations": [
+        "雙連"
+      ],
       "firstSeen": "2026-11-04T14:22:29.956608+00:00",
       "lastSeen": "2026-11-04T16:40:48.540455+00:00",
       "unavailable": false,
@@ -6460,6 +7248,11 @@
         "label": "來源提供的位置，非門牌保證"
       },
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -6520,6 +7313,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:22:23.612751+00:00",
       "lastSeen": "2026-11-04T14:51:38.179483+00:00",
       "unavailable": false,
@@ -6534,6 +7328,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -6594,6 +7393,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:22:23.612690+00:00",
       "lastSeen": "2026-11-04T14:51:38.153032+00:00",
       "unavailable": false,
@@ -6608,6 +7408,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -6668,6 +7473,9 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距中山 251 公尺",
+      "mentionedStations": [
+        "中山"
+      ],
       "firstSeen": "2026-11-04T14:22:23.612622+00:00",
       "lastSeen": "2026-11-04T14:51:38.147049+00:00",
       "unavailable": false,
@@ -6681,6 +7489,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -6733,6 +7546,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距迪化街 303 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:22:23.612572+00:00",
       "lastSeen": "2026-11-04T14:51:38.170547+00:00",
       "unavailable": false,
@@ -6747,6 +7561,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -6799,6 +7618,9 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距大橋頭 544 公尺",
+      "mentionedStations": [
+        "大橋頭"
+      ],
       "firstSeen": "2026-11-04T14:22:23.612522+00:00",
       "lastSeen": "2026-11-04T14:51:38.167560+00:00",
       "unavailable": false,
@@ -6813,6 +7635,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -6865,6 +7692,9 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "原文明列距台北車站 35 公尺",
+      "mentionedStations": [
+        "中山"
+      ],
       "firstSeen": "2026-11-04T14:22:23.612464+00:00",
       "lastSeen": "2026-11-04T14:52:26.755461+00:00",
       "unavailable": false,
@@ -6883,6 +7713,11 @@
         "label": "來源提供的位置，非門牌保證"
       },
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -6943,6 +7778,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距圓山 416 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:22:23.612413+00:00",
       "lastSeen": "2026-11-04T14:51:38.159194+00:00",
       "unavailable": false,
@@ -6957,6 +7793,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -7009,6 +7850,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距圓山 472 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:22:23.612360+00:00",
       "lastSeen": "2026-11-04T14:51:38.173574+00:00",
       "unavailable": false,
@@ -7023,6 +7865,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -7075,6 +7922,9 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距中山 91 公尺",
+      "mentionedStations": [
+        "中山"
+      ],
       "firstSeen": "2026-11-04T14:22:23.612309+00:00",
       "lastSeen": "2026-11-04T14:51:38.150060+00:00",
       "unavailable": false,
@@ -7089,6 +7939,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -7141,6 +7996,9 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "原文明列距大橋頭 248 公尺",
+      "mentionedStations": [
+        "大橋頭"
+      ],
       "firstSeen": "2026-11-04T14:22:23.612252+00:00",
       "lastSeen": "2026-11-04T14:52:23.318758+00:00",
       "unavailable": false,
@@ -7159,6 +8017,11 @@
         "label": "來源提供的位置，非門牌保證"
       },
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -7219,6 +8082,9 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距中山 171 公尺",
+      "mentionedStations": [
+        "中山"
+      ],
       "firstSeen": "2026-11-04T14:22:23.612200+00:00",
       "lastSeen": "2026-11-04T14:51:38.176498+00:00",
       "unavailable": false,
@@ -7233,6 +8099,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -7292,7 +8163,11 @@
       "electric": "台電",
       "subsidy": "可租補",
       "stationPriority": true,
-      "stationText": "原文明列民權西路站，距離待確認",
+      "stationText": "原文明列距大橋頭 551 公尺",
+      "mentionedStations": [
+        "民權西路",
+        "大橋頭"
+      ],
       "firstSeen": "2026-11-04T14:22:23.612148+00:00",
       "lastSeen": "2026-11-04T14:52:19.384265+00:00",
       "unavailable": false,
@@ -7311,6 +8186,11 @@
         "label": "來源提供的位置，非門牌保證"
       },
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -7328,8 +8208,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 168,
+            "time": "2026-11-05T01:23:24.150706+00:00",
+            "type": "interpretation",
+            "changes": [
+              {
+                "field": "stationText",
+                "before": "原文明列民權西路站，距離待確認",
+                "after": "原文明列距大橋頭 551 公尺"
+              }
+            ]
+          },
           {
             "id": 100,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -7371,6 +8263,9 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距大橋頭 290 公尺",
+      "mentionedStations": [
+        "大橋頭"
+      ],
       "firstSeen": "2026-11-04T14:22:23.612068+00:00",
       "lastSeen": "2026-11-04T14:51:38.164738+00:00",
       "unavailable": false,
@@ -7385,6 +8280,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -7437,6 +8337,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距民族重慶路口 250 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:22:23.612011+00:00",
       "lastSeen": "2026-11-04T14:51:38.141121+00:00",
       "unavailable": false,
@@ -7451,6 +8352,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -7502,7 +8408,11 @@
       "electric": "待確認",
       "subsidy": "待確認",
       "stationPriority": true,
-      "stationText": "原文明列民權西路站，距離待確認",
+      "stationText": "原文明列距雙連 235 公尺",
+      "mentionedStations": [
+        "民權西路",
+        "雙連"
+      ],
       "firstSeen": "2026-11-04T14:22:23.611953+00:00",
       "lastSeen": "2026-11-05T00:00:34.198173+00:00",
       "unavailable": false,
@@ -7521,6 +8431,11 @@
         "label": "來源提供的位置，非門牌保證"
       },
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -7538,8 +8453,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 169,
+            "time": "2026-11-05T01:23:24.150706+00:00",
+            "type": "interpretation",
+            "changes": [
+              {
+                "field": "stationText",
+                "before": "原文明列民權西路站，距離待確認",
+                "after": "原文明列距雙連 235 公尺"
+              }
+            ]
+          },
           {
             "id": 103,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -7580,7 +8507,11 @@
       "electric": "待確認",
       "subsidy": "待確認",
       "stationPriority": true,
-      "stationText": "原文明列民權西路站，距離待確認",
+      "stationText": "原文明列距雙連 235 公尺",
+      "mentionedStations": [
+        "民權西路",
+        "雙連"
+      ],
       "firstSeen": "2026-11-04T14:22:23.611876+00:00",
       "lastSeen": "2026-11-04T23:40:46.547646+00:00",
       "unavailable": false,
@@ -7599,6 +8530,11 @@
         "label": "來源提供的位置，非門牌保證"
       },
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -7616,8 +8552,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 170,
+            "time": "2026-11-05T01:23:24.150706+00:00",
+            "type": "interpretation",
+            "changes": [
+              {
+                "field": "stationText",
+                "before": "原文明列民權西路站，距離待確認",
+                "after": "原文明列距雙連 235 公尺"
+              }
+            ]
+          },
           {
             "id": 104,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -7659,6 +8607,7 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "原文明列距台北車站 309 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:22:23.611783+00:00",
       "lastSeen": "2026-11-04T18:10:45.443066+00:00",
       "unavailable": false,
@@ -7677,6 +8626,11 @@
         "label": "來源提供的位置，非門牌保證"
       },
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -7737,6 +8691,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距台北車站 385 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:22:23.611722+00:00",
       "lastSeen": "2026-11-04T14:51:38.125024+00:00",
       "unavailable": false,
@@ -7751,6 +8706,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -7811,6 +8771,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距台北車站 112 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:22:23.611661+00:00",
       "lastSeen": "2026-11-04T14:51:38.127880+00:00",
       "unavailable": false,
@@ -7825,6 +8786,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -7885,6 +8851,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距台北車站 137 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:22:23.611605+00:00",
       "lastSeen": "2026-11-04T14:51:38.130739+00:00",
       "unavailable": false,
@@ -7899,6 +8866,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -7959,6 +8931,9 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距中山 139 公尺",
+      "mentionedStations": [
+        "中山"
+      ],
       "firstSeen": "2026-11-04T14:22:23.611545+00:00",
       "lastSeen": "2026-11-04T14:51:38.121182+00:00",
       "unavailable": false,
@@ -7973,6 +8948,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -8032,7 +9012,11 @@
       "electric": "待確認",
       "subsidy": "可租補",
       "stationPriority": true,
-      "stationText": "原文明列民權西路站，距離待確認",
+      "stationText": "原文明列距大橋頭 248 公尺",
+      "mentionedStations": [
+        "民權西路",
+        "大橋頭"
+      ],
       "firstSeen": "2026-11-04T14:22:23.611478+00:00",
       "lastSeen": "2026-11-05T01:10:56.902574+00:00",
       "unavailable": false,
@@ -8051,6 +9035,11 @@
         "label": "來源提供的位置，非門牌保證"
       },
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -8068,8 +9057,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 171,
+            "time": "2026-11-05T01:23:24.150706+00:00",
+            "type": "interpretation",
+            "changes": [
+              {
+                "field": "stationText",
+                "before": "原文明列民權西路站，距離待確認",
+                "after": "原文明列距大橋頭 248 公尺"
+              }
+            ]
+          },
           {
             "id": 110,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -8111,6 +9112,9 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距雙連 445 公尺",
+      "mentionedStations": [
+        "雙連"
+      ],
       "firstSeen": "2026-11-04T14:22:23.611409+00:00",
       "lastSeen": "2026-11-04T14:51:38.118383+00:00",
       "unavailable": false,
@@ -8125,6 +9129,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -8177,6 +9186,9 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "原文明列距雙連 331 公尺",
+      "mentionedStations": [
+        "雙連"
+      ],
       "firstSeen": "2026-11-04T14:22:23.611339+00:00",
       "lastSeen": "2026-11-04T14:52:15.557149+00:00",
       "unavailable": false,
@@ -8195,6 +9207,11 @@
         "label": "來源提供的位置，非門牌保證"
       },
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -8255,6 +9272,9 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距雙連 448 公尺",
+      "mentionedStations": [
+        "雙連"
+      ],
       "firstSeen": "2026-11-04T14:22:23.611189+00:00",
       "lastSeen": "2026-11-04T14:51:38.107615+00:00",
       "unavailable": false,
@@ -8269,6 +9289,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -8321,6 +9346,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距迪化街 107 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:22:23.609835+00:00",
       "lastSeen": "2026-11-04T14:51:38.100372+00:00",
       "unavailable": false,
@@ -8335,6 +9361,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -8386,7 +9417,10 @@
       "electric": "待確認",
       "subsidy": "待確認",
       "stationPriority": false,
-      "stationText": "",
+      "stationText": "原文明列中山站，距離待確認",
+      "mentionedStations": [
+        "中山"
+      ],
       "firstSeen": "2026-11-04T14:22:23.609780+00:00",
       "lastSeen": "2026-11-04T14:51:38.097427+00:00",
       "unavailable": false,
@@ -8401,6 +9435,11 @@
       ],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -8410,8 +9449,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 172,
+            "time": "2026-11-05T01:23:24.150706+00:00",
+            "type": "interpretation",
+            "changes": [
+              {
+                "field": "stationText",
+                "before": "",
+                "after": "原文明列中山站，距離待確認"
+              }
+            ]
+          },
           {
             "id": 115,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -8453,6 +9504,9 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距迪化街 347 公尺",
+      "mentionedStations": [
+        "大橋頭"
+      ],
       "firstSeen": "2026-11-04T14:22:23.609718+00:00",
       "lastSeen": "2026-11-04T16:20:51.934972+00:00",
       "unavailable": false,
@@ -8471,6 +9525,11 @@
         "label": "來源提供的位置，非門牌保證"
       },
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -8531,6 +9590,9 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距大橋頭 502 公尺",
+      "mentionedStations": [
+        "大橋頭"
+      ],
       "firstSeen": "2026-11-04T14:22:23.609623+00:00",
       "lastSeen": "2026-11-04T14:52:57.501107+00:00",
       "unavailable": false,
@@ -8547,6 +9609,11 @@
         "label": "來源提供的位置，非門牌保證"
       },
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -8607,6 +9674,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "原文明列距台北車站 377 公尺",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:22:23.608693+00:00",
       "lastSeen": "2026-11-04T16:11:05.491541+00:00",
       "unavailable": false,
@@ -8625,6 +9693,11 @@
         "label": "來源提供的位置，非門牌保證"
       },
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_591_listing",
@@ -8685,6 +9758,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:07:24.593047+00:00",
       "lastSeen": "2026-11-04T14:07:24.593047+00:00",
       "unavailable": false,
@@ -8693,6 +9767,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [],
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
@@ -8740,6 +9819,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:06:09.763931+00:00",
       "lastSeen": "2026-11-04T14:06:09.763931+00:00",
       "unavailable": false,
@@ -8748,6 +9828,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_text",
@@ -8800,6 +9885,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:06:05.882816+00:00",
       "lastSeen": "2026-11-04T14:06:05.882816+00:00",
       "unavailable": false,
@@ -8808,6 +9894,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [],
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
@@ -8855,6 +9946,7 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:05:29.862714+00:00",
       "lastSeen": "2026-11-04T14:05:29.862714+00:00",
       "unavailable": false,
@@ -8863,6 +9955,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [],
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
@@ -8909,7 +10006,10 @@
       "electric": "待確認",
       "subsidy": "待確認",
       "stationPriority": false,
-      "stationText": "",
+      "stationText": "原文明列松江南京站，距離待確認",
+      "mentionedStations": [
+        "松江南京"
+      ],
       "firstSeen": "2026-11-04T14:05:25.932920+00:00",
       "lastSeen": "2026-11-04T14:05:25.932920+00:00",
       "unavailable": false,
@@ -8918,6 +10018,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_text",
@@ -8927,8 +10032,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 173,
+            "time": "2026-11-05T01:23:24.150706+00:00",
+            "type": "interpretation",
+            "changes": [
+              {
+                "field": "stationText",
+                "before": "",
+                "after": "原文明列松江南京站，距離待確認"
+              }
+            ]
+          },
           {
             "id": 123,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -8970,6 +10087,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:05:22.023395+00:00",
       "lastSeen": "2026-11-04T14:05:22.023395+00:00",
       "unavailable": false,
@@ -8978,6 +10096,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [],
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
@@ -9025,6 +10148,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:05:18.089667+00:00",
       "lastSeen": "2026-11-04T14:05:18.089667+00:00",
       "unavailable": false,
@@ -9033,6 +10157,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [],
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
@@ -9080,6 +10209,7 @@
       "subsidy": "不可租補",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:05:14.290371+00:00",
       "lastSeen": "2026-11-04T14:05:14.290371+00:00",
       "unavailable": false,
@@ -9088,6 +10218,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [],
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
@@ -9135,6 +10270,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:04:05.215462+00:00",
       "lastSeen": "2026-11-04T14:04:05.215462+00:00",
       "unavailable": false,
@@ -9143,6 +10279,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [],
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
@@ -9190,6 +10331,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:04:01.067071+00:00",
       "lastSeen": "2026-11-04T14:04:01.067071+00:00",
       "unavailable": false,
@@ -9198,6 +10340,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [],
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
@@ -9245,6 +10392,7 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:03:57.123969+00:00",
       "lastSeen": "2026-11-04T14:03:57.123969+00:00",
       "unavailable": false,
@@ -9253,6 +10401,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_text",
@@ -9305,6 +10458,7 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:03:53.150245+00:00",
       "lastSeen": "2026-11-04T14:03:53.150245+00:00",
       "unavailable": false,
@@ -9313,6 +10467,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [],
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
@@ -9360,6 +10519,7 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:03:49.195015+00:00",
       "lastSeen": "2026-11-04T14:03:49.195015+00:00",
       "unavailable": false,
@@ -9368,6 +10528,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_text",
@@ -9424,6 +10589,7 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:03:45.155110+00:00",
       "lastSeen": "2026-11-04T14:03:45.155110+00:00",
       "unavailable": false,
@@ -9432,6 +10598,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [],
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
@@ -9479,6 +10650,7 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T14:03:24.871253+00:00",
       "lastSeen": "2026-11-04T14:03:24.871253+00:00",
       "unavailable": false,
@@ -9487,6 +10659,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [],
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
@@ -9534,6 +10711,7 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T13:46:42.281147+00:00",
       "lastSeen": "2026-11-04T14:07:30.100203+00:00",
       "unavailable": false,
@@ -9542,6 +10720,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [],
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
@@ -9589,6 +10772,7 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T13:46:20.342192+00:00",
       "lastSeen": "2026-11-04T13:50:32.042608+00:00",
       "unavailable": false,
@@ -9597,6 +10781,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_text",
@@ -9653,6 +10842,7 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T13:35:54.277164+00:00",
       "lastSeen": "2026-11-04T14:07:30.101040+00:00",
       "unavailable": false,
@@ -9661,6 +10851,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [],
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
@@ -9707,7 +10902,10 @@
       "electric": "待確認",
       "subsidy": "待確認",
       "stationPriority": false,
-      "stationText": "",
+      "stationText": "原文明列松江南京站，距離待確認",
+      "mentionedStations": [
+        "松江南京"
+      ],
       "firstSeen": "2026-11-04T13:34:14.580399+00:00",
       "lastSeen": "2026-11-04T14:05:10.185252+00:00",
       "unavailable": false,
@@ -9716,6 +10914,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_text",
@@ -9725,8 +10928,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 174,
+            "time": "2026-11-05T01:23:24.150706+00:00",
+            "type": "interpretation",
+            "changes": [
+              {
+                "field": "stationText",
+                "before": "",
+                "after": "原文明列松江南京站，距離待確認"
+              }
+            ]
+          },
           {
             "id": 137,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -9768,6 +10983,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T13:34:14.577987+00:00",
       "lastSeen": "2026-11-04T14:05:02.106681+00:00",
       "unavailable": false,
@@ -9776,6 +10992,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [],
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
@@ -9823,6 +11044,7 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T13:33:06.710352+00:00",
       "lastSeen": "2026-11-04T14:03:41.025419+00:00",
       "unavailable": false,
@@ -9831,6 +11053,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [],
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
@@ -9878,6 +11105,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T13:33:06.709945+00:00",
       "lastSeen": "2026-11-04T14:03:37.089128+00:00",
       "unavailable": false,
@@ -9886,6 +11114,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_text",
@@ -9938,6 +11171,7 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T13:33:06.706976+00:00",
       "lastSeen": "2026-11-04T14:03:28.777925+00:00",
       "unavailable": false,
@@ -9946,6 +11180,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_text",
@@ -9998,6 +11237,7 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T13:25:35.870259+00:00",
       "lastSeen": "2026-11-04T13:25:35.870259+00:00",
       "unavailable": false,
@@ -10006,6 +11246,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_text",
@@ -10062,6 +11307,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T13:25:19.120941+00:00",
       "lastSeen": "2026-11-04T14:06:39.277362+00:00",
       "unavailable": false,
@@ -10070,6 +11316,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [],
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
@@ -10117,6 +11368,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T13:25:02.555506+00:00",
       "lastSeen": "2026-11-04T14:06:05.881867+00:00",
       "unavailable": false,
@@ -10125,6 +11377,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [],
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
@@ -10172,6 +11429,7 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T13:24:47.412529+00:00",
       "lastSeen": "2026-11-04T14:05:05.996072+00:00",
       "unavailable": false,
@@ -10180,6 +11438,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [],
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
@@ -10227,6 +11490,7 @@
       "subsidy": "待確認",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T13:24:13.607317+00:00",
       "lastSeen": "2026-11-04T14:03:33.262768+00:00",
       "unavailable": false,
@@ -10235,6 +11499,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [],
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
@@ -10282,6 +11551,7 @@
       "subsidy": "可租補",
       "stationPriority": false,
       "stationText": "",
+      "mentionedStations": [],
       "firstSeen": "2026-11-04T13:24:13.606274+00:00",
       "lastSeen": "2026-11-04T14:03:33.261448+00:00",
       "unavailable": false,
@@ -10290,6 +11560,11 @@
       "images": [],
       "location": null,
       "linkedListings": [],
+      "availability": {
+        "status": "unknown",
+        "reason": "可租狀態尚未確認",
+        "checkedAt": null
+      },
       "identityEvidence": [
         {
           "type": "same_text",
