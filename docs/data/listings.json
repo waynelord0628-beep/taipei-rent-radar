@@ -1,6 +1,7 @@
 {
-  "schemaVersion": 1,
-  "generatedAt": "2026-11-05T00:00:47.357818+00:00",
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-05T00:05:47.824406+00:00",
+  "historyTrackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
   "lastCollectedAt": "2026-11-05T00:00:47.159934+00:00",
   "totalCollected": 151,
   "sources": [
@@ -81,7 +82,45 @@
         "photos/346b91fcce87-599c37d3fd732f.jpg",
         "photos/346b91fcce87-a28e55c2d4a6c0.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_text",
+          "key": "text:8cdc68672843b49d8ea4e9cc50f76fce6c6bc5495c1309049018e7318d714f65"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:7e05c05c635b395383bb3fb8af081979b4f80dddf673d25684730a9d1d1dec53"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 1,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "建國北路三段",
+              "kind": "整層住家",
+              "rent": 55000,
+              "managementFee": 4127,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "台電",
+              "subsidy": "待確認",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "2c1892578c26b2d7",
@@ -113,7 +152,41 @@
         "photos/2c1892578c26-ede662094ca4cc.jpg",
         "photos/2c1892578c26-dfdf962b7eed84.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_text",
+          "key": "text:1c149e8e04574d0c401ed69b0aa89856d5f221bee0e24b5714dfbcf65fc6158a"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 2,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "一江街",
+              "kind": "雅房",
+              "rent": null,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "57d904fbdd788101",
@@ -139,7 +212,41 @@
       "nonListing": false,
       "ambiguousPrice": true,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_text",
+          "key": "text:a7193ea6eada43398312742514d472449c9fa08da8df082753c6de98faeb581c"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 3,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "新店區",
+              "street": "建國路",
+              "kind": "共生合租",
+              "rent": 10700,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "可租補",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": true
+            }
+          }
+        ]
+      }
     },
     {
       "id": "2ad42a18e3a73d58",
@@ -165,7 +272,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_text",
+          "key": "text:a9f9584512ac85fdcec868378c3243d4675824d768185b053c5dc206484efb51"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 4,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "松山區",
+              "street": "光復北路",
+              "kind": "共生合租",
+              "rent": null,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "台電",
+              "subsidy": "待確認",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "9f079fa5f7c166e7",
@@ -191,7 +332,36 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 5,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "新莊區",
+              "street": "天祥街",
+              "kind": "待確認",
+              "rent": 18888,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "可租補",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "aa801b9c30f6df07",
@@ -217,7 +387,49 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22222762"
+        },
+        {
+          "type": "same_text",
+          "key": "text:503c5b1b1e10705a736feb4ede6a6e03e7a9fb5cc1c4e8a9691fea9ddedcadbb"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:0823d737a25fb37ac25125b17555da90922aaf23b8c3ef9da2a0d45c09259e7f"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 6,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "北安路",
+              "kind": "獨立套房",
+              "rent": 14997,
+              "managementFee": null,
+              "extraFee": "來源列額外費用 500 元／月（項目需確認）",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距大直 245 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "27b9d2bf24ed7ead",
@@ -243,7 +455,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22259856"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 7,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "龍江路",
+              "kind": "獨立套房",
+              "rent": 17790,
+              "managementFee": null,
+              "extraFee": "來源列額外費用 500 元／月（項目需確認）",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距中山國中 580 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "3cfab8fdbe7b44b6",
@@ -269,7 +515,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22230877"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 8,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "北安路",
+              "kind": "獨立套房",
+              "rent": 17999,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距捷運劍南路站 56 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "7d07dcb99267a719",
@@ -295,7 +575,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22222141"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 9,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "龍江路",
+              "kind": "獨立套房",
+              "rent": 12488,
+              "managementFee": null,
+              "extraFee": "來源列額外費用 500 元／月（項目需確認）",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距中山國中 579 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "16ecb410e346c8fa",
@@ -321,7 +635,36 @@
       "nonListing": false,
       "ambiguousPrice": true,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 10,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "待確認",
+              "street": "",
+              "kind": "雅房",
+              "rent": null,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "台水",
+              "electric": "台電",
+              "subsidy": "待確認",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": true
+            }
+          }
+        ]
+      }
     },
     {
       "id": "ec251c826c77f560",
@@ -347,7 +690,41 @@
       "nonListing": false,
       "ambiguousPrice": true,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_text",
+          "key": "text:239c837b4e887c5fe2a9efaba810ec3b7c72ac149e0d8a3f7aa9a0dc8f655187"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 11,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "信義區",
+              "street": "永吉路",
+              "kind": "雅房",
+              "rent": null,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "台水",
+              "electric": "台電",
+              "subsidy": "待確認",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": true
+            }
+          }
+        ]
+      }
     },
     {
       "id": "f0eeb77dfb418aa0",
@@ -373,7 +750,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_text",
+          "key": "text:1b9ba46223a013bffc42513838598219b0ca4b4e1bfac135701b773d88961f2e"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 12,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "板橋區",
+              "street": "裕民街",
+              "kind": "雅房",
+              "rent": null,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "台電",
+              "subsidy": "待確認",
+              "stationText": "",
+              "unavailable": true,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "53fcc5a727869232",
@@ -399,7 +810,41 @@
       "nonListing": false,
       "ambiguousPrice": true,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_text",
+          "key": "text:fefdf4dfd35f146988cd4456dc5a407d0138942360e3703f79a0184811c71487"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 13,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "北投區",
+              "street": "自強街",
+              "kind": "雅房",
+              "rent": null,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "可租補",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": true
+            }
+          }
+        ]
+      }
     },
     {
       "id": "04e67d255c0dbada",
@@ -425,7 +870,36 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 14,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "待確認",
+              "street": "",
+              "kind": "共生合租",
+              "rent": 13000,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "台水",
+              "electric": "待確認",
+              "subsidy": "可租補",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "f8995e861589a9e6",
@@ -451,7 +925,36 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 15,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "板橋區",
+              "street": "民生路三段",
+              "kind": "待確認",
+              "rent": 16000,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "8833d248944d9634",
@@ -477,7 +980,45 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_text",
+          "key": "text:9d59f6a67ddc9094b8017ff97c74c8fc22de2949b086ccda4c706c819fa98853"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:333469367cf02d5d8971235c6d5fa7b0d2dd43453c5660a445decd577b8c3958"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 16,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "新店區",
+              "street": "永業路",
+              "kind": "共生合租",
+              "rent": 14888,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "可租補",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "a20624e428d3838f",
@@ -503,7 +1044,36 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 17,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "松山區",
+              "street": "南京東路五段",
+              "kind": "待確認",
+              "rent": 55000,
+              "managementFee": 2700,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距小巨蛋捷運站約 600 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "0baa459693d4287f",
@@ -529,7 +1099,49 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22229789"
+        },
+        {
+          "type": "same_text",
+          "key": "text:8bb66bc7a3c0a23876b88dae8dc13d90f8d5b3d9839f9fd64c1e51e451a76245"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:455fe660bdb96d6aac17cf1dcba31fe887a99c058892f8e19670fd9ed136bd64"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 18,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "塔城街",
+              "kind": "獨立套房",
+              "rent": 17500,
+              "managementFee": null,
+              "extraFee": "來源列額外費用 500 元／月（項目需確認）",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "7dec36cb2d05c77a",
@@ -555,7 +1167,41 @@
       "nonListing": false,
       "ambiguousPrice": true,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_text",
+          "key": "text:fefdf4dfd35f146988cd4456dc5a407d0138942360e3703f79a0184811c71487"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 19,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "北投區",
+              "street": "自強街",
+              "kind": "雅房",
+              "rent": null,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "可租補",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": true
+            }
+          }
+        ]
+      }
     },
     {
       "id": "553195b7d8afcb6e",
@@ -581,7 +1227,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_text",
+          "key": "text:bb96b3bd588707b17d39e01a2f6861f682cba36a021112fd5bd56de19bfe277a"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 20,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "松山區",
+              "street": "民生東路四段",
+              "kind": "雅房",
+              "rent": null,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "台電",
+              "subsidy": "待確認",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "3d5f3720c36827bc",
@@ -607,7 +1287,45 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_text",
+          "key": "text:2caa312859c9ec59a89e766398a08382e0b15e65460b7436ce92ed0f6dfd6866"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:548d0a812a43e6fd4019af9532851b76869f6eb08242d8a6a1b36596cd78d675"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 21,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "新店區",
+              "street": "永業路",
+              "kind": "雅房",
+              "rent": 11888,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "可租補",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "2b985c78029e1da7",
@@ -633,7 +1351,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22293596"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 22,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "長春路",
+              "kind": "獨立套房",
+              "rent": 12500,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "可租補",
+              "stationText": "原文明列距松江南京 385 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "3365a42606466944",
@@ -659,7 +1411,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22173724"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 23,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "龍江路",
+              "kind": "獨立套房",
+              "rent": 9999,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "台電",
+              "subsidy": "待確認",
+              "stationText": "原文明列距南京復興 531 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "478988dbb580bd3b",
@@ -685,7 +1471,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22208351"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 24,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "北安路",
+              "kind": "獨立套房",
+              "rent": 12490,
+              "managementFee": null,
+              "extraFee": "來源列額外費用 500 元／月（項目需確認）",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距大直 151 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "4d2558706ce80d72",
@@ -711,7 +1531,49 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22262899"
+        },
+        {
+          "type": "same_text",
+          "key": "text:96ae7ad1a020cd6b6c41cc4cfad8d6dd02616d5da57efd8d3075f954f4c737ae"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:b5a2d8c5b5f5a01e163f6a47455c331ed1e949c035f1ade193d542b325703518"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 25,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "重慶北路三段",
+              "kind": "獨立套房",
+              "rent": 16500,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "可租補",
+              "stationText": "原文明列距大橋頭 564 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "cecca98cd7225a45",
@@ -737,7 +1599,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22223096"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 26,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "林森北路",
+              "kind": "獨立套房",
+              "rent": 10999,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距南京新生北路口 34 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "a4a7863e6c6e94dd",
@@ -763,7 +1659,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22243355"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 27,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "龍江路",
+              "kind": "獨立套房",
+              "rent": 13000,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距中山國中 600 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "2203f08795148367",
@@ -789,7 +1719,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22231706"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 28,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "民生西路",
+              "kind": "獨立套房",
+              "rent": 14998,
+              "managementFee": 0,
+              "extraFee": "來源列額外費用 200 元／月（項目需確認）",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "可租補",
+              "stationText": "原文明列距雙連 218 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "5e71501c39642b3e",
@@ -815,7 +1779,49 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22193238"
+        },
+        {
+          "type": "same_text",
+          "key": "text:9642c626b1b20f7b674b7cf1a091e92eb556d932e2537ebe6a3af0092832f9e9"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:8079c76ec330a2377c9a955abedeb9df6a395943c5f0bd65b3c072525157ecb9"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 29,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "錦州街",
+              "kind": "獨立套房",
+              "rent": 10999,
+              "managementFee": null,
+              "extraFee": "來源列額外費用 500 元／月（項目需確認）",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距中山國小 402 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "5f68cf449f912701",
@@ -841,7 +1847,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22130728"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 30,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "林森北路",
+              "kind": "獨立套房",
+              "rent": 11800,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距松江南京 624 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "bbcba3033cb05265",
@@ -867,7 +1907,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22189083"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 31,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "吉林路",
+              "kind": "獨立套房",
+              "rent": 13000,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距中山國小 619 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "16f4dfd3c8ea608f",
@@ -893,7 +1967,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22273154"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 32,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "民生西路",
+              "kind": "獨立套房",
+              "rent": 14500,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距雙連 96 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "4efd462eeec5179d",
@@ -919,7 +2027,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22286073"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 33,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "龍江路",
+              "kind": "獨立套房",
+              "rent": 12000,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距榮星花園 270 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "2b46abf1ba9d3b4f",
@@ -945,7 +2087,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22206709"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 34,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "錦州街",
+              "kind": "獨立套房",
+              "rent": 9000,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距中山國中 354 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "919c8fa84518d172",
@@ -971,7 +2147,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22278989"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 35,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "長安東路一段",
+              "kind": "獨立套房",
+              "rent": 7900,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距善導寺 510 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "055ba7e6a834932d",
@@ -997,7 +2207,49 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22190087"
+        },
+        {
+          "type": "same_text",
+          "key": "text:c829551d8e795fefe12a41e7fe34cf5a78ef9c5856064b9708e037eda0a90261"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:5b517b8ecb964b04ecaad796128ef11a2dc12eb08620a8c397424e5d2efb6ec7"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 36,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "龍江路",
+              "kind": "獨立套房",
+              "rent": 13000,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距中山國中 600 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "4b509f225ee01b02",
@@ -1023,7 +2275,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22284136"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 37,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "合江街",
+              "kind": "獨立套房",
+              "rent": 8999,
+              "managementFee": null,
+              "extraFee": "來源列額外費用 600 元／月（項目需確認）",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距中山國中 538 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "076c35c41961312d",
@@ -1049,7 +2335,49 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22141669"
+        },
+        {
+          "type": "same_text",
+          "key": "text:f883d9b2178376023aa2418aae6147768419be30b8aedf814cdca26f5f85d4be"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:e179c251d60812bbb04404ee0e0e1e7877a58e9c2c6acd995adef60d1b4f82de"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 38,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "北安路",
+              "kind": "獨立套房",
+              "rent": 14480,
+              "managementFee": null,
+              "extraFee": "來源列額外費用 500 元／月（項目需確認）",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距捷運大直站 169 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "92e7c816867b50ca",
@@ -1075,7 +2403,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22159003"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 39,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "伊通街",
+              "kind": "獨立套房",
+              "rent": 13600,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "可租補",
+              "stationText": "原文明列距松江南京 171 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "619c28eb07786e66",
@@ -1101,7 +2463,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22193225"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 40,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "合江街",
+              "kind": "獨立套房",
+              "rent": 8999,
+              "managementFee": null,
+              "extraFee": "來源列額外費用 500 元／月（項目需確認）",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距中山國中 418 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "5826db64f6f89602",
@@ -1127,7 +2523,49 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22292045"
+        },
+        {
+          "type": "same_text",
+          "key": "text:8b9472834fcee5031f33a52c87fb2502b1448ca1a0639756dc78fcf71906f844"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:f683f18904e82bd0b601bcb830970a2cf24bd8f31d5e9db108af51e76156f643"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 41,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "民權東路二段",
+              "kind": "獨立套房",
+              "rent": 10000,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距行天宮 406 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "f18ce9ee6f469f87",
@@ -1153,7 +2591,49 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22245555"
+        },
+        {
+          "type": "same_text",
+          "key": "text:9efc7dee239451da6d873716ff527ae7d08edd9f683245aaa042e07f44ba8a4b"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:c6a81fcd094962eca0489f5dab8f1fc392748a890531aaa1f25be5d66d012f54"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 42,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "新生北路二段",
+              "kind": "獨立套房",
+              "rent": 16500,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "可租補",
+              "stationText": "原文明列距中山國小 311 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "7759772ada4d40ba",
@@ -1179,7 +2659,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22255376"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 43,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "南京東路三段",
+              "kind": "獨立套房",
+              "rent": 11500,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距南京復興 583 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "551096c752e97439",
@@ -1205,7 +2719,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22273449"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 44,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "天津街",
+              "kind": "獨立套房",
+              "rent": 12000,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距中山 384 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "2bbedbd62735d0d2",
@@ -1231,7 +2779,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22214949"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 45,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "建國北路三段",
+              "kind": "獨立套房",
+              "rent": 13500,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距建北站 130 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "81742e07219e27d0",
@@ -1257,7 +2839,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22179945"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 46,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "新生北路一段",
+              "kind": "獨立套房",
+              "rent": 17900,
+              "managementFee": null,
+              "extraFee": "來源列額外費用 500 元／月（項目需確認）",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距南京新生北路口 20 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "6202c3a44d930ff6",
@@ -1283,7 +2899,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22208490"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 47,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "延平北路四段",
+              "kind": "獨立套房",
+              "rent": 7999,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "台電",
+              "subsidy": "待確認",
+              "stationText": "原文明列距大橋頭 746 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "9abb918d1d48dfd4",
@@ -1309,7 +2959,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22247821"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 48,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "太原路",
+              "kind": "獨立套房",
+              "rent": 16000,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "可租補",
+              "stationText": "原文明列距台北車站 35 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "d2ad72a393b9ce4d",
@@ -1335,7 +3019,49 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22175892"
+        },
+        {
+          "type": "same_text",
+          "key": "text:c6074636b46b64dc7aa3c93adba8b879d4c56a54aeba5250095f5ce42983f521"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:0959b0142aed3d47a3324207e2c7b4ebe443ca67ab4faf04480ade8a8d589a8c"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 49,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "南京西路",
+              "kind": "獨立套房",
+              "rent": 10990,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "可租補",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "1f44f367773e0766",
@@ -1361,7 +3087,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22246759"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 50,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "民生西路",
+              "kind": "獨立套房",
+              "rent": 14000,
+              "managementFee": null,
+              "extraFee": "來源列額外費用 500 元／月（項目需確認）",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距雙連 188 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "544932f3c0b8e64d",
@@ -1387,7 +3147,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22208492"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 51,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "延平北路四段",
+              "kind": "獨立套房",
+              "rent": 7999,
+              "managementFee": null,
+              "extraFee": "來源列額外費用 500 元／月（項目需確認）",
+              "water": "待確認",
+              "electric": "台電",
+              "subsidy": "待確認",
+              "stationText": "原文明列距大橋頭 746 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "3781e4b8f4a55659",
@@ -1419,6 +3213,48 @@
         "lat": 25.063643,
         "lng": 121.516073,
         "label": "來源提供的位置，非門牌保證"
+      },
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22293373"
+        },
+        {
+          "type": "same_text",
+          "key": "text:87fd2f2bf60b82445d7b95a330450a63386523b34b97a81a32f87a1a91941df0"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:59660bf9335103cd8e6ee521a2c38c4b7eaf9669a74af82761d3b47ba6eb7634"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 52,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "大龍街",
+              "kind": "獨立套房",
+              "rent": 13500,
+              "managementFee": 500,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "台電",
+              "subsidy": "可租補",
+              "stationText": "原文明列民權西路站，距離待確認",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
       }
     },
     {
@@ -1449,6 +3285,48 @@
         "lat": 25.063643,
         "lng": 121.516073,
         "label": "來源提供的位置，非門牌保證"
+      },
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22292254"
+        },
+        {
+          "type": "same_text",
+          "key": "text:87216dffb2235221380ea946552107c8f3fe3039fdf408db09cfeb43e704623e"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:a50775030d573e69cbacdd1af1f31e0a729c8f20a2df36ac4a0db6e447be6b21"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 53,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "大龍街",
+              "kind": "共生合租",
+              "rent": 13500,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "可租補",
+              "stationText": "原文明列民權西路站，距離待確認",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
       }
     },
     {
@@ -1475,7 +3353,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_text",
+          "key": "text:87521ffef183a30704527b7915b5a8306e14a7c558d7e83e57bd50fe3d8a4b56"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 54,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "信義區",
+              "street": "永吉路",
+              "kind": "共生合租",
+              "rent": null,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "b54082ea78cdce38",
@@ -1507,7 +3419,41 @@
         "photos/b54082ea78cd-a34e38da6fa9bd.jpg",
         "photos/b54082ea78cd-1bdebf9429e4a6.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22207099"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 55,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "大直街",
+              "kind": "獨立套房",
+              "rent": 14000,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距大直 186 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "a6f502f03571d784",
@@ -1539,7 +3485,41 @@
         "photos/a6f502f03571-61819098b657d7.jpg",
         "photos/a6f502f03571-bd2702f53cb700.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22234999"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 56,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "新生北路一段",
+              "kind": "獨立套房",
+              "rent": 13499,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距松江南京 598 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "faabe23d1ee49049",
@@ -1571,7 +3551,41 @@
         "photos/faabe23d1ee4-04fcdbed51b4c3.jpg",
         "photos/faabe23d1ee4-263ee5734bb540.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22287226"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 57,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "吉林路",
+              "kind": "獨立套房",
+              "rent": 9000,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距行天宮 196 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "6a53ff37bb1d87d2",
@@ -1603,7 +3617,41 @@
         "photos/6a53ff37bb1d-cc4bbc3af28087.jpg",
         "photos/6a53ff37bb1d-44f0dd117dd59f.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22231526"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 58,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "林森北路",
+              "kind": "獨立套房",
+              "rent": 10989,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距善導寺 601 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "fcd776276c4e83a6",
@@ -1635,7 +3683,41 @@
         "photos/fcd776276c4e-dbd78aed2b3e08.jpg",
         "photos/fcd776276c4e-940c1c3a32a1c0.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22262950"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 59,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "北安路",
+              "kind": "獨立套房",
+              "rent": 10000,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "可租補",
+              "stationText": "原文明列距大直加油站 12 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "9ad1ba5ace159e6c",
@@ -1661,7 +3743,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22279888"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 60,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "伊通街",
+              "kind": "獨立套房",
+              "rent": 14994,
+              "managementFee": null,
+              "extraFee": "來源列額外費用 500 元／月（項目需確認）",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "可租補",
+              "stationText": "原文明列距松江南京 213 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "add1324539f4223a",
@@ -1687,7 +3803,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22291342"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 61,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "龍江路",
+              "kind": "獨立套房",
+              "rent": 11000,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距南京復興 602 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "871bc20ec032114f",
@@ -1719,7 +3869,41 @@
         "photos/871bc20ec032-71ecfa9422ffb6.jpg",
         "photos/871bc20ec032-752ef3eabfe537.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22169389"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 62,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "松江路",
+              "kind": "獨立套房",
+              "rent": 13800,
+              "managementFee": null,
+              "extraFee": "來源列額外費用 200 元／月（項目需確認）",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距松江南京 90 公尺",
+              "unavailable": true,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "d6ef086d0b9cec8f",
@@ -1751,7 +3935,41 @@
         "photos/d6ef086d0b9c-8500c260345e11.jpg",
         "photos/d6ef086d0b9c-cf431b7c7ee836.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22287052"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 63,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "吉林路",
+              "kind": "獨立套房",
+              "rent": 9500,
+              "managementFee": null,
+              "extraFee": "來源列額外費用 500 元／月（項目需確認）",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距行天宮 307 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "46d2806ee4534374",
@@ -1783,7 +4001,49 @@
         "photos/46d2806ee453-4c91567837a098.jpg",
         "photos/46d2806ee453-562b23cc9155b0.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22194522"
+        },
+        {
+          "type": "same_text",
+          "key": "text:0fe426c63d4f741c397215447e33e4e6b9de582e9bd58bdc6097200def395e70"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:91e2e6c82839495f5f02eefe02b071202d1bfb2c4336a205f196d4ae7d84870c"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 64,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "林森北路",
+              "kind": "獨立套房",
+              "rent": 16999,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距中山 560 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "c6586deceee04ad9",
@@ -1815,7 +4075,41 @@
         "photos/c6586deceee0-81d18efa5c8a5c.jpg",
         "photos/c6586deceee0-a0ed26c1d0432a.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22287051"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 65,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "錦西街",
+              "kind": "獨立套房",
+              "rent": 15000,
+              "managementFee": null,
+              "extraFee": "來源列額外費用 200 元／月（項目需確認）",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距雙連 252 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "ae51bf07df9c3beb",
@@ -1847,7 +4141,49 @@
         "photos/ae51bf07df9c-92ba0ecfa002df.jpg",
         "photos/ae51bf07df9c-aeeef2c3f830d2.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22290754"
+        },
+        {
+          "type": "same_text",
+          "key": "text:9c969279f8742a911c3c3b2a2fff78b08ee27780d2fce64ef45c37b9e85cbc8f"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:7bde1cffbdd42e70a68dfb01d58d195ff00358d3cb5f3f518294e3f4a225fc3f"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 66,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "林森北路",
+              "kind": "獨立套房",
+              "rent": 16300,
+              "managementFee": null,
+              "extraFee": "來源列額外費用 1,100 元／月（項目需確認）",
+              "water": "台水",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距南京新生北路口 69 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "95c7598697c198ea",
@@ -1879,7 +4215,41 @@
         "photos/95c7598697c1-d563ae0d71be9a.jpg",
         "photos/95c7598697c1-d9381db2cb1e58.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22292355"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 67,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "吉林路",
+              "kind": "獨立套房",
+              "rent": 8999,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "台電",
+              "subsidy": "待確認",
+              "stationText": "原文明列距行天宮 196 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "c21670435909c76b",
@@ -1911,7 +4281,41 @@
         "photos/c21670435909-127c5e6335be1d.jpg",
         "photos/c21670435909-a21c589dbe39f7.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22211794"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 68,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "北安路",
+              "kind": "獨立套房",
+              "rent": 17999,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距捷運劍南路站 56 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "e372d9234a01a8be",
@@ -1943,7 +4347,49 @@
         "photos/e372d9234a01-11457a04c76925.jpg",
         "photos/e372d9234a01-ff4a08333031fb.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22291805"
+        },
+        {
+          "type": "same_text",
+          "key": "text:e29663f5e717241f7b74cdc4e5ca11fbcda0b2194a37c3f4564141ba5bc1392a"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:05f05fb0768adb2e40daaaab2ce772d12883308da8c58eb6b7fe5cede493651d"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 69,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "長安東路一段",
+              "kind": "獨立套房",
+              "rent": 16000,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距善導寺 499 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "edd22f3834e566ea",
@@ -1979,6 +4425,48 @@
         "lat": 25.065653,
         "lng": 121.534188,
         "label": "來源提供的位置，非門牌保證"
+      },
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22269291"
+        },
+        {
+          "type": "same_text",
+          "key": "text:825d143606f26c878ec1dafe7181d1c551b1bb7b654afdeac30bd77ce5efe7b5"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:e41177ebc27b641deeb849d64231f866fa92e2d68429b3d580b7860295742c63"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 70,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "松江路",
+              "kind": "分租套房",
+              "rent": 13000,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "台電",
+              "subsidy": "可租補",
+              "stationText": "原文明列距大都會客運建北站 148 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
       }
     },
     {
@@ -2011,7 +4499,41 @@
         "photos/7664688f984b-a448ab4e272671.jpg",
         "photos/7664688f984b-49d386cd6ca362.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22254778"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 71,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "北安路",
+              "kind": "獨立套房",
+              "rent": 17999,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距捷運劍南路站 56 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "05e8e68c4628523f",
@@ -2043,7 +4565,41 @@
         "photos/05e8e68c4628-9b82fe2bd0b5c7.jpg",
         "photos/05e8e68c4628-78b6d0bb6b43e2.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22279647"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 72,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "龍江路",
+              "kind": "獨立套房",
+              "rent": 11000,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距中山國中 711 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "2e3115a4da00abc2",
@@ -2074,7 +4630,41 @@
         "photos/2e3115a4da00-4872b989d811a4.jpg",
         "photos/2e3115a4da00-dac947cd6305aa.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22292615"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 73,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "錦西街",
+              "kind": "獨立套房",
+              "rent": 15000,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距雙連 258 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "03938cb0a44396d2",
@@ -2110,6 +4700,48 @@
         "lat": 25.0519383,
         "lng": 121.5296046,
         "label": "來源提供的位置，非門牌保證"
+      },
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22292618"
+        },
+        {
+          "type": "same_text",
+          "key": "text:950186ef21bb2593cd3dde1d907db38e63b923e0b1c42f1d7459c27d98e2cf10"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:def64947ed8757b12f64ff48dd16ee5445fe6f5c8ba40c8daa460fd51939b28a"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 74,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "吉林路",
+              "kind": "獨立套房",
+              "rent": 17000,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距松江南京 351 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
       }
     },
     {
@@ -2146,6 +4778,48 @@
         "lat": 25.056704,
         "lng": 121.527236,
         "label": "來源提供的位置，非門牌保證"
+      },
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22280573"
+        },
+        {
+          "type": "same_text",
+          "key": "text:3022d2e55adce7a93d409bc4301440e82fcdb384c34acedd28aeb636f1de7751"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:d879edbeb5ba7f3b1d9e4c89a720ad268a3d88d6f7cb0395e86d1f498a859864"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 75,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "新生北路二段",
+              "kind": "獨立套房",
+              "rent": 11000,
+              "managementFee": 527,
+              "extraFee": "來源列 527 元／月，與管理費同額，請確認是否同一筆，勿自行重複加計",
+              "water": "台水",
+              "electric": "台電",
+              "subsidy": "可租補",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
       }
     },
     {
@@ -2178,7 +4852,41 @@
         "photos/6c6780e9f20b-933a040f9f3fb3.jpg",
         "photos/6c6780e9f20b-d843089bc6a2a6.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22162922"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 76,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "雙城街",
+              "kind": "獨立套房",
+              "rent": 9600,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距中山國小 364 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "c2f4b07cb8a02762",
@@ -2210,7 +4918,41 @@
         "photos/c2f4b07cb8a0-ec2406c9168d27.jpg",
         "photos/c2f4b07cb8a0-2e13119e1f7c75.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22291943"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 77,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "林森北路",
+              "kind": "獨立套房",
+              "rent": 9500,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距善導寺 591 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "f72e7480f205d813",
@@ -2246,6 +4988,48 @@
         "lat": 25.0593736,
         "lng": 121.5208339,
         "label": "來源提供的位置，非門牌保證"
+      },
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22239572"
+        },
+        {
+          "type": "same_text",
+          "key": "text:da322fc165816938306b7ba5d5e65c3217fba56ccabb895f062ce0a0d6bc210a"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:0be2bf634cc366102a627fa8c61b2b1fe6fc4520cc5a628e7060963bd305318a"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 78,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "錦西街",
+              "kind": "獨立套房",
+              "rent": 16000,
+              "managementFee": 500,
+              "extraFee": "來源列 500 元／月，與管理費同額，請確認是否同一筆，勿自行重複加計",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列民權西路站，距離待確認",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
       }
     },
     {
@@ -2281,6 +5065,48 @@
         "lat": 25.055821,
         "lng": 121.525945,
         "label": "來源提供的位置，非門牌保證"
+      },
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22176671"
+        },
+        {
+          "type": "same_text",
+          "key": "text:eef0de2185775bea79c0c8e6336d5e61d76501f9008bd8252588fa722e8e717b"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:5483ee5ccd20d038e076d91ba39a07474982647a2a1e791f9120937ea59815f6"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 79,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "新生北路二段",
+              "kind": "獨立套房",
+              "rent": 13800,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "可租補",
+              "stationText": "原文明列距雙連 575 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
       }
     },
     {
@@ -2312,7 +5138,41 @@
         "photos/59e3a8e1e54e-ee32c79014f225.jpg",
         "photos/59e3a8e1e54e-27b05f183aeaa5.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22208683"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 80,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "錦西街",
+              "kind": "獨立套房",
+              "rent": 17000,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距中山國小 388 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "ae85228eead84a04",
@@ -2344,7 +5204,41 @@
         "photos/ae85228eead8-0e953f0e976289.jpg",
         "photos/ae85228eead8-d1af6d4a8536a1.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22194743"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 81,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "松江路",
+              "kind": "獨立套房",
+              "rent": 12800,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距松江南京 474 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "821ec47220d7aa25",
@@ -2376,7 +5270,49 @@
         "photos/821ec47220d7-f81ea4a42cc0df.jpg",
         "photos/821ec47220d7-048e50de967130.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22257181"
+        },
+        {
+          "type": "same_text",
+          "key": "text:092d1d6e3a344ea6f43c3012469e070141d71ec2a66a53263492f56ddaec8bdb"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:13c7c167184124c7301b0f7c16df88a5e9dcaadbd5b156bd7aee94b4a549e1f2"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 82,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "合江街",
+              "kind": "獨立套房",
+              "rent": 16000,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距中山國中 452 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "6bafbc2ecad1edb0",
@@ -2408,7 +5344,41 @@
         "photos/6bafbc2ecad1-2e9f4114029278.jpg",
         "photos/6bafbc2ecad1-a22e5950e3b1ee.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22267593"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 83,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "吉林路",
+              "kind": "獨立套房",
+              "rent": 15500,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距行天宮 314 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "5a0fd98da95c07f6",
@@ -2441,6 +5411,48 @@
         "lat": 25.0506038,
         "lng": 121.5268938,
         "label": "來源提供的位置，非門牌保證"
+      },
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22273359"
+        },
+        {
+          "type": "same_text",
+          "key": "text:98c8066f40e60851140c1d3885aa228dbc20fcde0e016f167e2f94a628e0b9b5"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:58e4efeb96baba58a0e6da8df7f479d4faf64e5e409698498320a2ff28d62197"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 84,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "新生北路一段",
+              "kind": "獨立套房",
+              "rent": 17888,
+              "managementFee": 500,
+              "extraFee": "來源列 500 元／月，與管理費同額，請確認是否同一筆，勿自行重複加計",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "可租補",
+              "stationText": "原文明列距南京新生北路口 103 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
       }
     },
     {
@@ -2471,7 +5483,49 @@
         "photos/dccbf953f271-7c23e8b4c22ffa.jpg",
         "photos/dccbf953f271-badbccad91158a.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22214735"
+        },
+        {
+          "type": "same_text",
+          "key": "text:cb733dbe6ecba77f8964e8fe1d97e592b52afb929d880db4647f250494e9341a"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:31dc7bb46ae265b49a00da6e680dcf6be0adc3ade86313a24b95fce99dddcea3"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 85,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "林森北路",
+              "kind": "獨立套房",
+              "rent": 10188,
+              "managementFee": null,
+              "extraFee": "來源列額外費用 1,212 元／月（項目需確認）",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距善導寺 625 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "06ef6a7450b10b77",
@@ -2507,6 +5561,48 @@
         "lat": 25.0491018,
         "lng": 121.5224529,
         "label": "來源提供的位置，非門牌保證"
+      },
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22263328"
+        },
+        {
+          "type": "same_text",
+          "key": "text:b88988f2ee529227e1409658db7c5d78d8152916a9cfa581fe3e025c73cbd9d9"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:b357413da73c5bde554a729501fbe9b9bc10cbfb208155faeb0ac62edbebbf2f"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 86,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "中山北路一段",
+              "kind": "獨立套房",
+              "rent": 16000,
+              "managementFee": 900,
+              "extraFee": "來源列 900 元／月，與管理費同額，請確認是否同一筆，勿自行重複加計",
+              "water": "台水",
+              "electric": "台電",
+              "subsidy": "待確認",
+              "stationText": "原文明列距中山 450 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
       }
     },
     {
@@ -2543,6 +5639,48 @@
         "lat": 25.05151,
         "lng": 121.521145,
         "label": "來源提供的位置，非門牌保證"
+      },
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22256870"
+        },
+        {
+          "type": "same_text",
+          "key": "text:41e16c3bfa28411fdca7a3cfd63cb64f11d6addd2a6ccc6cac2560ce3bb0b2b8"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:e332da5aed733b63b12c888c87b2639370939fa274dbea9fd99fc59631d91257"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 87,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "中山北路一段",
+              "kind": "獨立套房",
+              "rent": 15000,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "可租補",
+              "stationText": "原文明列距中山 152 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
       }
     },
     {
@@ -2579,6 +5717,48 @@
         "lat": 25.0574272,
         "lng": 121.5263298,
         "label": "來源提供的位置，非門牌保證"
+      },
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:19730104"
+        },
+        {
+          "type": "same_text",
+          "key": "text:b8a79d27e55a2e13caf8e8dbc852be6b6285e021f87b0aa07341b27025468de4"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:2538eee49580d828545e26986696099917e1d139f116e59a8cdc92720a8c43f9"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 88,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "民生東路一段",
+              "kind": "獨立套房",
+              "rent": 17000,
+              "managementFee": 1000,
+              "extraFee": "來源列 1,000 元／月，與管理費同額，請確認是否同一筆，勿自行重複加計",
+              "water": "台水",
+              "electric": "台電",
+              "subsidy": "可租補",
+              "stationText": "原文明列距雙連 572 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
       }
     },
     {
@@ -2611,7 +5791,49 @@
         "photos/9e3f2eb5f9cb-61254459127abf.jpg",
         "photos/9e3f2eb5f9cb-feb8bd96ec3b37.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22191835"
+        },
+        {
+          "type": "same_text",
+          "key": "text:ae961f57be7d89c90e89f9ecb498ca5c91aa32d73e43139e86d4eeec70e46728"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:2714dd3d14df3fbd7a48ae835626e7c0795d89b6ba3cec6fabd70001d6e0e57c"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 89,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "塔城街",
+              "kind": "獨立套房",
+              "rent": 13999,
+              "managementFee": null,
+              "extraFee": "來源列額外費用 500 元／月（項目需確認）",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "75b3fc81533c895e",
@@ -2643,7 +5865,49 @@
         "photos/75b3fc81533c-6966129158540f.jpg",
         "photos/75b3fc81533c-443eb40147ee2b.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22267862"
+        },
+        {
+          "type": "same_text",
+          "key": "text:08f3d33e8923f418f82eea67a7cef3b589f1c552c04ad7595ee90d852e6dbc1a"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:a35b1be39507a6889e6a0b9bb22176439e3a4b20f17d6913c1fd2c35eae84b76"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 90,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "重慶北路一段",
+              "kind": "獨立套房",
+              "rent": 15500,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "fa8bf677abe1f956",
@@ -2674,7 +5938,41 @@
         "photos/fa8bf677abe1-524e98f0a50d32.jpg",
         "photos/fa8bf677abe1-71fd8bf9b9406c.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22205623"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 91,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "赤峰街",
+              "kind": "獨立套房",
+              "rent": 12500,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距中山 251 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "d4c58e76d46a9c2f",
@@ -2706,7 +6004,41 @@
         "photos/d4c58e76d46a-fed1754b38b04e.jpg",
         "photos/d4c58e76d46a-44a006d46f5125.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22270850"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 92,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "貴德街",
+              "kind": "獨立套房",
+              "rent": 14000,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距迪化街 303 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "e730b732dbea94d4",
@@ -2738,7 +6070,41 @@
         "photos/e730b732dbea-45efd3a95f4f76.jpg",
         "photos/e730b732dbea-a7bd8da59b302f.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22280741"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 93,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "重慶北路三段",
+              "kind": "獨立套房",
+              "rent": 14000,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距大橋頭 544 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "8a771442565bcb91",
@@ -2774,6 +6140,48 @@
         "lat": 25.0489901,
         "lng": 121.5134661,
         "label": "來源提供的位置，非門牌保證"
+      },
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22278572"
+        },
+        {
+          "type": "same_text",
+          "key": "text:fff7146f2cfdc911ee02cd8d394df248ac0fcfc0b7fa339f4a183987078824d7"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:8a4a63500ecf17a2d557f27d1b39f8b90bb8aa544c03f03c34c1904e4b25013e"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 94,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "太原路",
+              "kind": "獨立套房",
+              "rent": 15999,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "可租補",
+              "stationText": "原文明列距台北車站 35 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
       }
     },
     {
@@ -2806,7 +6214,41 @@
         "photos/a0166d7097bc-701b95bd0e0d89.jpg",
         "photos/a0166d7097bc-51af8f2d7baf44.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22217291"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 95,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "承德路三段",
+              "kind": "獨立套房",
+              "rent": 15000,
+              "managementFee": 0,
+              "extraFee": "來源列額外費用 200 元／月（項目需確認）",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距圓山 416 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "09777f581ee16d71",
@@ -2838,7 +6280,41 @@
         "photos/09777f581ee1-1afdb4eb5e0267.jpg",
         "photos/09777f581ee1-59d7c2776e664b.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22219182"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 96,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "承德路三段",
+              "kind": "獨立套房",
+              "rent": 12998,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "台電",
+              "subsidy": "待確認",
+              "stationText": "原文明列距圓山 472 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "3f77049be29a0c94",
@@ -2870,7 +6346,41 @@
         "photos/3f77049be29a-e154884af31e52.jpg",
         "photos/3f77049be29a-4f718fa64822d1.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22278633"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 97,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "南京西路",
+              "kind": "獨立套房",
+              "rent": 11000,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距中山 91 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "5f3e307bcdba7083",
@@ -2906,6 +6416,48 @@
         "lat": 25.0627361,
         "lng": 121.5111743,
         "label": "來源提供的位置，非門牌保證"
+      },
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22288888"
+        },
+        {
+          "type": "same_text",
+          "key": "text:e94d325db9463c5a106cc4e7355d46888efa282d0e2515ae4f198b5f7c2a2d27"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:1554c8fb3293c8f2d8e6edf7693b1521726954ac3242c1fb1b61be55b64c6596"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 98,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "延平北路二段",
+              "kind": "獨立套房",
+              "rent": 11999,
+              "managementFee": 1500,
+              "extraFee": "來源列 1,500 元／月，與管理費同額，請確認是否同一筆，勿自行重複加計",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "可租補",
+              "stationText": "原文明列距大橋頭 248 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
       }
     },
     {
@@ -2938,7 +6490,49 @@
         "photos/d5653453f0d3-42693f5d2cd0e2.jpg",
         "photos/d5653453f0d3-47cee82893788f.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22185538"
+        },
+        {
+          "type": "same_text",
+          "key": "text:0527910f30dcb902519eabdc701a6f619f58616659061faffe9247031b0d1bad"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:30da6a9adad8a9d2876581ad1ce064f1b7632517fd7aa0bb40d24b15beb07249"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 99,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "南京西路",
+              "kind": "獨立套房",
+              "rent": 13999,
+              "managementFee": null,
+              "extraFee": "來源列額外費用 500 元／月（項目需確認）",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距中山 171 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "f5e24a1efecc84cd",
@@ -2974,6 +6568,48 @@
         "lat": 25.0680238,
         "lng": 121.5139107,
         "label": "來源提供的位置，非門牌保證"
+      },
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22278551"
+        },
+        {
+          "type": "same_text",
+          "key": "text:31f101f17755ef1224221d388cc07a78ecf04fc802b344f7a8d1dd9e17d7e82f"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:4fe00c9ca8d79d4dd663b95864dd235a82f0c2218f24f7162a6585a94f478124"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 100,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "重慶北路三段",
+              "kind": "獨立套房",
+              "rent": 16500,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "台電",
+              "subsidy": "可租補",
+              "stationText": "原文明列民權西路站，距離待確認",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
       }
     },
     {
@@ -3006,7 +6642,41 @@
         "photos/4dd0dcf5008e-d4c2988bf7642f.jpg",
         "photos/4dd0dcf5008e-52c98206684a64.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22214210"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 101,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "重慶北路三段",
+              "kind": "獨立套房",
+              "rent": 15000,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距大橋頭 290 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "ed9cda81ee91ac50",
@@ -3038,7 +6708,41 @@
         "photos/ed9cda81ee91-054dc588bf3abc.jpg",
         "photos/ed9cda81ee91-bc70d3725d0c7d.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22243486"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 102,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "迪化街",
+              "kind": "獨立套房",
+              "rent": 17998,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距民族重慶路口 250 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "9f31049f5831110d",
@@ -3074,6 +6778,48 @@
         "lat": 25.0591735,
         "lng": 121.5189152,
         "label": "來源提供的位置，非門牌保證"
+      },
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22287049"
+        },
+        {
+          "type": "same_text",
+          "key": "text:64ae4551372b9d9bb3959d11911aa9cc6b74297b807b86e84b730c88128088b5"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:5af0906c2a7abdefe7a1dbcdc890f38531d7fc9c785386144ee812aebe2e97b2"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 103,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "錦西街",
+              "kind": "獨立套房",
+              "rent": 15000,
+              "managementFee": 200,
+              "extraFee": "來源列 200 元／月，與管理費同額，請確認是否同一筆，勿自行重複加計",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列民權西路站，距離待確認",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
       }
     },
     {
@@ -3110,6 +6856,48 @@
         "lat": 25.0591735,
         "lng": 121.5189152,
         "label": "來源提供的位置，非門牌保證"
+      },
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22287050"
+        },
+        {
+          "type": "same_text",
+          "key": "text:4fdea3d0966fbc1958e15aa3789dc91962b83d26f7110004f1d72ef665a05390"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:ef081191196e2ee420fd5f2bf4e29669305da42c26b8775c07b70825ef9bcf3c"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 104,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "錦西街",
+              "kind": "獨立套房",
+              "rent": 14500,
+              "managementFee": 200,
+              "extraFee": "來源列 200 元／月，與管理費同額，請確認是否同一筆，勿自行重複加計",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列民權西路站，距離待確認",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
       }
     },
     {
@@ -3146,6 +6934,48 @@
         "lat": 25.0515561,
         "lng": 121.5132415,
         "label": "來源提供的位置，非門牌保證"
+      },
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:21545575"
+        },
+        {
+          "type": "same_text",
+          "key": "text:d42cc2fbeaf5c3556028a9a4ff648444512ccb84738b8d5390d7836a25ac3e9c"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:8c5ddd7485f23fdd2576129839a966438a0ccae794c0214f39d1fa76f53e1a46"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 105,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "延平北路一段",
+              "kind": "獨立套房",
+              "rent": 14500,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "台水",
+              "electric": "台電",
+              "subsidy": "可租補",
+              "stationText": "原文明列距台北車站 309 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
       }
     },
     {
@@ -3178,7 +7008,49 @@
         "photos/244785b0a23a-9e46937f6a52a9.jpg",
         "photos/244785b0a23a-7c4910a62a0857.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:16442399"
+        },
+        {
+          "type": "same_text",
+          "key": "text:f03f760ff70fc56fcd9b17d95075a01d2f165c0d8937163299915f2818405f35"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:85e371963aba0b193b4cfe66e4e4465b48ab58dab807b61b8f67291e1dc607ee"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 106,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "華陰街",
+              "kind": "獨立套房",
+              "rent": 16000,
+              "managementFee": null,
+              "extraFee": "來源列額外費用 600 元／月（項目需確認）",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距台北車站 385 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "288aea7a9b2452a6",
@@ -3210,7 +7082,49 @@
         "photos/288aea7a9b24-2b2831353b3a35.jpg",
         "photos/288aea7a9b24-be6b9dc43cda48.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22113430"
+        },
+        {
+          "type": "same_text",
+          "key": "text:c162c8c99fb247d63eecfe988156648c62f8744799669c109a4ef38efea8b14c"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:0f6147efbf7defee1c36fcdb2d8af2bd1b7bd271f8676387ffdb98cfedab493d"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 107,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "華陰街",
+              "kind": "獨立套房",
+              "rent": 17000,
+              "managementFee": null,
+              "extraFee": "來源列額外費用 550 元／月（項目需確認）",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距台北車站 112 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "432b4166cc79d531",
@@ -3242,7 +7156,49 @@
         "photos/432b4166cc79-2ea02fe123f13c.jpg",
         "photos/432b4166cc79-7e302486c47bda.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22075867"
+        },
+        {
+          "type": "same_text",
+          "key": "text:d5f996f572c7517f06e7cac023b0324b5eef5fa5414417661b61a8ece013e994"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:f57479fdd979eafa101f270008b0e3c9bcb530b870143a1b4720f3c58f8c3481"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 108,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "華陰街",
+              "kind": "獨立套房",
+              "rent": 13000,
+              "managementFee": null,
+              "extraFee": "來源列額外費用 350 元／月（項目需確認）",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距台北車站 137 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "13169fa40ceca060",
@@ -3274,7 +7230,49 @@
         "photos/13169fa40cec-a48a632351e1a5.jpg",
         "photos/13169fa40cec-1ac26238437439.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22254885"
+        },
+        {
+          "type": "same_text",
+          "key": "text:8b17d64401cc8a1e6562c66bc0201571edfe1aacdbbf381a7c35e8e4da66ffe8"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:5b80c52934d154632fe59ac1bdc51732b01f0c8757fb73f7b11c5e73c1d5726b"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 109,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "南京西路",
+              "kind": "獨立套房",
+              "rent": 11999,
+              "managementFee": null,
+              "extraFee": "來源列額外費用 500 元／月（項目需確認）",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距中山 139 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "d81a755efbcce7eb",
@@ -3310,6 +7308,48 @@
         "lat": 25.0627361,
         "lng": 121.5111743,
         "label": "來源提供的位置，非門牌保證"
+      },
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22269385"
+        },
+        {
+          "type": "same_text",
+          "key": "text:5e805ae351e563a46b6a028005ccd24621159c8bf5a8fb288e3eba87a3897ae5"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:c6ed928b35ff5fda12977147be7ed3a3be366de187efd02aa1252b8f8304e790"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 110,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "延平北路二段",
+              "kind": "獨立套房",
+              "rent": 12000,
+              "managementFee": 1500,
+              "extraFee": "來源列 1,500 元／月，與管理費同額，請確認是否同一筆，勿自行重複加計",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "可租補",
+              "stationText": "原文明列民權西路站，距離待確認",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
       }
     },
     {
@@ -3342,7 +7382,41 @@
         "photos/9155d284a7ba-95f967d1e5ea67.jpg",
         "photos/9155d284a7ba-5364f2d87cc90b.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22232863"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 111,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "寧夏路",
+              "kind": "獨立套房",
+              "rent": 17500,
+              "managementFee": null,
+              "extraFee": "來源列額外費用 800 元／月（項目需確認）",
+              "water": "待確認",
+              "electric": "台電",
+              "subsidy": "待確認",
+              "stationText": "原文明列距雙連 445 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "5a42fcd53044e955",
@@ -3378,6 +7452,48 @@
         "lat": 25.0587708,
         "lng": 121.5175728,
         "label": "來源提供的位置，非門牌保證"
+      },
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22268874"
+        },
+        {
+          "type": "same_text",
+          "key": "text:979d08c93a457506d72017387588815a9e95c1b8ca88f5ce686cde5d4e8b6296"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:708c091b5ead85944f6cc11346879712e6aad0996594e65bafa7216048a0c008"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 112,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "興城街",
+              "kind": "獨立套房",
+              "rent": 14999,
+              "managementFee": 500,
+              "extraFee": "來源列 500 元／月，與管理費同額，請確認是否同一筆，勿自行重複加計",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "可租補",
+              "stationText": "原文明列距雙連 331 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
       }
     },
     {
@@ -3410,7 +7526,41 @@
         "photos/a025885e70dc-6af40f160e4596.jpg",
         "photos/a025885e70dc-5ddc4fc5aa67be.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22195788"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 113,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "寧夏路",
+              "kind": "獨立套房",
+              "rent": 17500,
+              "managementFee": null,
+              "extraFee": "來源列額外費用 800 元／月（項目需確認）",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距雙連 448 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "0173415d2d5b5101",
@@ -3442,7 +7592,41 @@
         "photos/0173415d2d5b-69e1adcb6c4702.jpg",
         "photos/0173415d2d5b-f2d0e711bae1fb.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22280376"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 114,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "延平北路二段",
+              "kind": "獨立套房",
+              "rent": 9500,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距迪化街 107 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "e3bbc890cf95d5ef",
@@ -3474,7 +7658,41 @@
         "photos/e3bbc890cf95-e147b84a3fd60f.jpg",
         "photos/e3bbc890cf95-7f1859a6e5db32.jpg"
       ],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22285985"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 115,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "南京西路",
+              "kind": "獨立套房",
+              "rent": 13200,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "a4521b8e123043e3",
@@ -3510,6 +7728,48 @@
         "lat": 25.0591552,
         "lng": 121.5135218,
         "label": "來源提供的位置，非門牌保證"
+      },
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22279689"
+        },
+        {
+          "type": "same_text",
+          "key": "text:202303fdccb33fbb2ccdbca61c35fd803635699edcb5f9dde5bc84b3e977b794"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:96f125d273d00ba9a6fe54dd85201841c98af656092b072ebb68c41c8b40dd07"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 116,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "歸綏街 距迪化街",
+              "kind": "獨立套房",
+              "rent": 17000,
+              "managementFee": 650,
+              "extraFee": "來源列 650 元／月，與管理費同額，請確認是否同一筆，勿自行重複加計",
+              "water": "台水",
+              "electric": "台電",
+              "subsidy": "待確認",
+              "stationText": "原文明列距迪化街 347 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
       }
     },
     {
@@ -3544,6 +7804,48 @@
         "lat": 25.0669699,
         "lng": 121.511081,
         "label": "來源提供的位置，非門牌保證"
+      },
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22280066"
+        },
+        {
+          "type": "same_text",
+          "key": "text:c79626f33a138f26c13679f7742c7662d5136cdb5e6f5160bc5da08b2c550528"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:72416b7e6c62ed0064f0de7b603b7c6f37b236eb58ae9dd03b1bf26818ef870d"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 117,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "延平北路三段",
+              "kind": "獨立套房",
+              "rent": 9488,
+              "managementFee": 600,
+              "extraFee": "來源列 600 元／月，與管理費同額，請確認是否同一筆，勿自行重複加計",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距大橋頭 502 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
       }
     },
     {
@@ -3580,6 +7882,48 @@
         "lat": 25.0512196,
         "lng": 121.5163895,
         "label": "來源提供的位置，非門牌保證"
+      },
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_591_listing",
+          "key": "591:22220761"
+        },
+        {
+          "type": "same_text",
+          "key": "text:3f1bf8464bd4053737bbc5ede5c3999338edededea3defd5ea041ee072ed1f82"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:66546afa4ac1608199891260bfce8238d830cfe715db22719d1229e9004bcd0d"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 118,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "大同區",
+              "street": "華陰街",
+              "kind": "獨立套房",
+              "rent": 11000,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "台水",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "原文明列距台北車站 377 公尺",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
       }
     },
     {
@@ -3606,7 +7950,36 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 119,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "待確認",
+              "street": "",
+              "kind": "共生合租",
+              "rent": null,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "b69c71223654d874",
@@ -3632,7 +8005,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_text",
+          "key": "text:527aacd735e5b46a4aeae43b69f91820b6b156ad4f974aa2dd85e95b96a05350"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 120,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中和區",
+              "street": "員山路",
+              "kind": "雅房",
+              "rent": 1500,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "b7717a9d3d68f479",
@@ -3658,7 +8065,36 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 121,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中和區",
+              "street": "秀朗路二段",
+              "kind": "待確認",
+              "rent": 16900,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "台電",
+              "subsidy": "待確認",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "19c696a0c2424b96",
@@ -3684,7 +8120,36 @@
       "nonListing": false,
       "ambiguousPrice": true,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 122,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "待確認",
+              "street": "",
+              "kind": "共生合租",
+              "rent": null,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "台電",
+              "subsidy": "可租補",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": true
+            }
+          }
+        ]
+      }
     },
     {
       "id": "050d688f3a1acebe",
@@ -3710,7 +8175,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_text",
+          "key": "text:a8a5caa589a81cc80453d8e253029dcbe6bd0aafdb83b4724b2014ae721a0f13"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 123,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "一江街",
+              "kind": "共生合租",
+              "rent": null,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "a79fec9751c1ee20",
@@ -3736,7 +8235,36 @@
       "nonListing": false,
       "ambiguousPrice": true,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 124,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "待確認",
+              "street": "",
+              "kind": "共生合租",
+              "rent": null,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "台電",
+              "subsidy": "待確認",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": true
+            }
+          }
+        ]
+      }
     },
     {
       "id": "7dd258457117786a",
@@ -3762,7 +8290,36 @@
       "nonListing": false,
       "ambiguousPrice": true,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 125,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "待確認",
+              "street": "",
+              "kind": "共生合租",
+              "rent": null,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "台電",
+              "subsidy": "待確認",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": true
+            }
+          }
+        ]
+      }
     },
     {
       "id": "29e254fc8e5b354c",
@@ -3788,7 +8345,36 @@
       "nonListing": false,
       "ambiguousPrice": true,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 126,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "待確認",
+              "street": "",
+              "kind": "共生合租",
+              "rent": null,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "台電",
+              "subsidy": "不可租補",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": true
+            }
+          }
+        ]
+      }
     },
     {
       "id": "1d350366286ac28a",
@@ -3814,7 +8400,36 @@
       "nonListing": false,
       "ambiguousPrice": true,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 127,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "待確認",
+              "street": "",
+              "kind": "共生合租",
+              "rent": null,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "台電",
+              "subsidy": "待確認",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": true
+            }
+          }
+        ]
+      }
     },
     {
       "id": "9dddd46c7252617d",
@@ -3840,7 +8455,36 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 128,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中和區",
+              "street": "景平路",
+              "kind": "待確認",
+              "rent": null,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "台電",
+              "subsidy": "待確認",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "8924bc6417c7f894",
@@ -3866,7 +8510,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_text",
+          "key": "text:8575f6aa89ad990cbc5352a5c9505ba6980194c1996201cfce6b5f251b8874e9"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 129,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中和區",
+              "street": "員山路",
+              "kind": "雅房",
+              "rent": 10969,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "可租補",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "d9edbff88264af54",
@@ -3892,7 +8570,36 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 130,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "板橋區",
+              "street": "瑞安街",
+              "kind": "待確認",
+              "rent": 9974,
+              "managementFee": 500,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "台電",
+              "subsidy": "可租補",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "4187ea2477c87bbc",
@@ -3918,7 +8625,45 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_text",
+          "key": "text:d70cc33edcf4227d316f0e79df9a2c8ebbb5dc3ec7ecabb14659180edd1c42a8"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:cda4c9fcf8b2e268f8e47ed4c11b1a966933eb424c8827d559de9304905884b3"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 131,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "永和區",
+              "street": "永平路",
+              "kind": "共生合租",
+              "rent": 18000,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "台水",
+              "electric": "待確認",
+              "subsidy": "可租補",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "023c6e6e11626244",
@@ -3944,7 +8689,36 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 132,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "永和區",
+              "street": "秀朗路二段",
+              "kind": "待確認",
+              "rent": null,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "台電",
+              "subsidy": "可租補",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "164cdfb62744f96b",
@@ -3970,7 +8744,36 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 133,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "永和區",
+              "street": "民樂街",
+              "kind": "待確認",
+              "rent": 17971,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "可租補",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "6f21f280f8cdb012",
@@ -3996,7 +8799,36 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 134,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "待確認",
+              "street": "",
+              "kind": "整層住家",
+              "rent": 31000,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "台水",
+              "electric": "台電",
+              "subsidy": "可租補",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "9f276befb2f2c08f",
@@ -4022,7 +8854,45 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_text",
+          "key": "text:dabd4e5f7983deb2c74065078c7e629fedb733a7e15fbcee3a009d52baeed763"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:5f910ef2ac5ddeff99b8787d84442b0aa8012769a8ba4b8f6f1d4764aa6e47ca"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 135,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "三重區",
+              "street": "昌隆街",
+              "kind": "雅房",
+              "rent": 32000,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "可租補",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "e8d5307af973c6f6",
@@ -4048,7 +8918,36 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 136,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "待確認",
+              "street": "",
+              "kind": "待確認",
+              "rent": 13800,
+              "managementFee": 200,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "可租補",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "4835eab346c3c089",
@@ -4074,7 +8973,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_text",
+          "key": "text:a4a0a7a659f132e46783c84866dea8f10467ac62f2365db88043139245bb8033"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 137,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中山區",
+              "street": "一江街",
+              "kind": "共生合租",
+              "rent": null,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "065acb41db17c52e",
@@ -4100,7 +9033,36 @@
       "nonListing": false,
       "ambiguousPrice": true,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 138,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "待確認",
+              "street": "",
+              "kind": "共生合租",
+              "rent": null,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "台電",
+              "subsidy": "待確認",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": true
+            }
+          }
+        ]
+      }
     },
     {
       "id": "33dd7faad41a99c8",
@@ -4126,7 +9088,36 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 139,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "新莊區",
+              "street": "建中街",
+              "kind": "待確認",
+              "rent": 9923,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "台電",
+              "subsidy": "可租補",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "e98dfbb0079b72cf",
@@ -4152,7 +9143,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_text",
+          "key": "text:3a7f433e41e12ee9489848c0f1f61a325e7722dad478715af1d9bd2d0c4196f9"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 140,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中和區",
+              "street": "景平路",
+              "kind": "整層住家",
+              "rent": 21938,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "台電",
+              "subsidy": "待確認",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "8f10d53fe6e6e573",
@@ -4178,7 +9203,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_text",
+          "key": "text:2192fb67eed92493e8fd4f4380241dfff15a7b870856f3d1a534bd939366d3ba"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 141,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "板橋區",
+              "street": "國慶路",
+              "kind": "整層住家",
+              "rent": 22910,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "台電",
+              "subsidy": "可租補",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "80d002ead38be754",
@@ -4204,7 +9263,45 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_text",
+          "key": "text:445e57fcb6651b7bee0f0b425848816d6ed9ce51cd6af8ddf9190c82ed9090cd"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:030a04f1479d478d4691bd5d0eb21e0bf1750f41e9a1b0b630b759be6df8eb7a"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 142,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "新店區",
+              "street": "公所捷運站走路",
+              "kind": "整層住家",
+              "rent": 30000,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "台水",
+              "electric": "台電",
+              "subsidy": "可租補",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "ad57c78c7a04b7f9",
@@ -4230,7 +9327,36 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 143,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "土城區",
+              "street": "(實際靠近亞東科大走路",
+              "kind": "雅房",
+              "rent": 8000,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "台水",
+              "electric": "待確認",
+              "subsidy": "待確認",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "801a0d5b45dda141",
@@ -4256,7 +9382,36 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 144,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中和區",
+              "street": "永和路",
+              "kind": "待確認",
+              "rent": 16900,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "台電",
+              "subsidy": "待確認",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "f86ab722e495ad5e",
@@ -4282,7 +9437,36 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 145,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "待確認",
+              "street": "",
+              "kind": "共生合租",
+              "rent": 14300,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "台電",
+              "subsidy": "可租補",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "18940b0b5b23a045",
@@ -4308,7 +9492,36 @@
       "nonListing": false,
       "ambiguousPrice": true,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 146,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "待確認",
+              "street": "",
+              "kind": "共生合租",
+              "rent": null,
+              "managementFee": 0,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "台電",
+              "subsidy": "待確認",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": true
+            }
+          }
+        ]
+      }
     },
     {
       "id": "c40ed7aafc6efb2c",
@@ -4334,7 +9547,41 @@
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [],
-      "location": null
+      "location": null,
+      "linkedListings": [],
+      "identityEvidence": [
+        {
+          "type": "same_text",
+          "key": "text:fb08b3c92b604df4edbb72b8ef7b68559d8ea5bdb18512883272c2d497f35817"
+        }
+      ],
+      "history": {
+        "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
+        "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
+        "totalEvents": 1,
+        "events": [
+          {
+            "id": 147,
+            "time": "2026-11-05T00:05:47.772651+00:00",
+            "type": "baseline",
+            "changes": [],
+            "initial": {
+              "district": "中和區",
+              "street": "宜安路",
+              "kind": "整層住家",
+              "rent": null,
+              "managementFee": null,
+              "extraFee": "",
+              "water": "待確認",
+              "electric": "台電",
+              "subsidy": "可租補",
+              "stationText": "",
+              "unavailable": false,
+              "ambiguousPrice": false
+            }
+          }
+        ]
+      }
     }
   ],
   "collector": {
