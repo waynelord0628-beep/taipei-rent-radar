@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-05T10:17:08.009332+00:00",
+  "generatedAt": "2026-11-05T10:18:46.626781+00:00",
   "historyTrackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
   "lastCollectedAt": "2026-11-05T10:16:24.242793+00:00",
   "totalCollected": 265,
@@ -19700,8 +19700,8 @@
     }
   ],
   "collector": {
-    "state": "paused",
-    "message": "facebook 已暫停，異常已記錄；其餘來源依序更新。",
+    "state": "partial",
+    "message": "Facebook 貼文讀取逾時，8篇測試未完成；已回退6篇並暫停，591依序正常更新。",
     "lastAttemptAt": "2026-11-05T10:09:00.902117+00:00",
     "lastSuccessAt": "2026-11-05T10:00:55.620127+00:00"
   }
