@@ -12,6 +12,7 @@ export function factValue(field, value) {
   if (value == null || value==='') return '待確認／未明列';
   if (field==='unavailable') return value?'原文明列已出租':'未見已出租標示';
   if (field==='ambiguousPrice') return value?'價格需核對':'未見價格歧義';
+  if (field==='availabilityStatus')return {unknown:'尚未確認',listed:'本次仍讀到刊登',closed:'原文明列已出租／下架',page_missing:'原文頁面失效待確認'}[value] || String(value);
   return typeof value==='number'?`${money(value)} 元／月`:String(value);
 }
 

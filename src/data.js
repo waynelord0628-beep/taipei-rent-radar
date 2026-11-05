@@ -1,4 +1,5 @@
-export const defaults = { districts: ['大同區', '中山區'], budget: 18000, kind: '獨立套房', subsidy: true, utilities: false, query: '' };
+import {stationProfile} from './metro.js';
+export const defaults = { districts: ['大同區', '中山區'], budget: 18000, kind: '獨立套房', subsidy: true, utilities: false, nearby:false, query: '' };
 export const money = value => value == null ? '租金待確認' : Number(value).toLocaleString('zh-TW');
 export const date = value => value ? new Intl.DateTimeFormat('zh-TW', { month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit', hour12: false, timeZone: 'Asia/Taipei' }).format(new Date(value)) : '尚未更新';
 export function assess(item, filters) {
@@ -27,7 +28,11 @@ export function sorted(items, sort) {
   return [...items].sort((a, b) => {
     const rank = x => ({match:0,pending:1,excluded:2}[x.assessment?.status] ?? 1);
     if (['station','utilities'].includes(sort) && rank(a)!==rank(b)) return rank(a)-rank(b);
-    if (sort === 'station' && a.stationPriority !== b.stationPriority) return Number(b.stationPriority) - Number(a.stationPriority);
+    if(sort==='station') {
+      const first=a.station || stationProfile(a),second=b.station || stationProfile(b);
+      if(first.rank!==second.rank)return first.rank-second.rank;
+      if(first.focus&&second.focus&&first.focus.meters!==second.focus.meters)return first.focus.meters-second.focus.meters;
+    }
     if (['station', 'utilities'].includes(sort)) {
       const utility = x => Number(x.water === '台水' && x.electric === '台電');
       if (utility(a) !== utility(b)) return utility(b) - utility(a);

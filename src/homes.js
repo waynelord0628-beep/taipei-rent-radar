@@ -1,6 +1,7 @@
 import { assess } from './data.js';
+import {lifecycle} from './lifecycle.js';
 
-export const fieldLabels = {district:'行政區',street:'路段',kind:'房型',rent:'租金',managementFee:'管理費',extraFee:'其他費用',water:'水費',electric:'電費',subsidy:'租補',stationText:'捷運資訊',unavailable:'出租狀態',ambiguousPrice:'價格待確認'};
+export const fieldLabels = {district:'行政區',street:'路段',kind:'房型',rent:'租金',managementFee:'管理費',extraFee:'其他費用',water:'水費',electric:'電費',subsidy:'租補',stationText:'捷運資訊',unavailable:'出租狀態',ambiguousPrice:'價格待確認',availabilityStatus:'刊登讀取狀態'};
 const known = value => value != null && value !== '' && value !== '待確認';
 const time = value => Date.parse(value) || 0;
 const conflictFields = ['rent','managementFee','water','electric','subsidy','unavailable'];
@@ -41,6 +42,11 @@ export function buildHomes(listings) {
 
 export function assessHome(home, filters) {
   const result=assess(home,filters);
+  const state=lifecycle(home);
+  if(['stale','page_missing'].includes(state.state)) {
+    result.reasons.push(state.state==='stale'?'7天以上未確認，請先確認可租狀態':'原文頁面失效待確認');
+    if(result.status==='match')result.status='pending';
+  }
   if (home.conflicts.length) return {status:result.status==='match'?'pending':result.status,reasons:[...result.reasons,'不同來源條件不一致，請核對原文']};
   return result;
 }
@@ -58,6 +64,7 @@ export function activity(home, now=Date.now()) {
       return {kind:'new',label:'新收錄',event};
     }
     if (event.type==='interpretation') return {kind:'changed',label:'資料辨識更新',event};
+    if(event.changes.length&&event.changes.every(x=>['availabilityStatus','unavailable'].includes(x.field)))return {kind:'changed',label:'刊登狀態更新',event};
     const rent=event.changes.find(x=>x.field==='rent');
     if (rent && Number.isFinite(rent.before) && Number.isFinite(rent.after) && rent.after<rent.before)
       return {kind:'price_drop',label:`${home.members.length>1?'來源':''}租金下降 $${(rent.before-rent.after).toLocaleString('zh-TW')}`,event};

@@ -19,3 +19,8 @@ Validation: `node --test src/decision.test.js`, `npm run build`. Source collecto
 Duplicate advertisements are grouped with explicit evidence: a shared canonical 591 property link, the same complete detailed post, or the same full advertisement with only labelled rental/management prices changed. Street, floor and room numbers are not masked. Equal street names, equal rents and similar photographs alone do not merge listings. All source variants and links remain available; different known prices, fees, utilities or subsidy terms force review. Existing favorite/comparison IDs resolve through all member IDs.
 Observed history starts with a labelled baseline for existing records, not invented past changes. Later snapshots retain rent, management fee, utility, subsidy and other important public-field changes in a private cloud SQLite archive. Public JSON includes the latest20 events per source and the total count. Missing posts are not marked rented. Parser-only changes with identical original text are identified separately; unknown-to-known prices are information completion, not price cuts. Activity filters cover the last7 days. No raw post bodies or credentials enter this archive or public history.
 Additional checks: `node --test src/homes.test.js src/decision.test.js`.
+
+### 近站與看房
+民權西路／雙連優先，另含中山國小、行天宮、中山、松江南京、大橋頭。以來源座標至北捷公開出入口的直線距離排序；800公尺篩選可選，非實際步行距離。
+房源明確出租／下架、頁面失效、久未確認分開標記，未出現在本輪列表不表示出租。看房進度與筆記只存目前瀏覽器，清除網站資料會遺失；日曆檔下載匯入後才會提醒，變更須另調整日曆。
+接駁目的站為圓山、民權西路、中山國中、松山。官方捷運旅程時間不包含候車、到站步行及接駁班次。

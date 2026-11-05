@@ -1,4 +1,5 @@
 import { money } from './data.js';
+import {stationProfile} from './metro.js';
 
 // This is a disclosed subtotal, never an invented all-inclusive monthly bill.
 export function monthlyCost(item) {
@@ -20,13 +21,15 @@ export function questions(item) {
   if (!item.water || item.water === '待確認') values.push('水費');
   if (!item.electric || item.electric === '待確認') values.push('電費');
   if (item.extraFee) values.push('其他費用是否重複計列');
-  if (item.stationPriority && !/距民權西路\s*\d+\s*公尺/.test(item.stationText || '')) values.push('民權西路站實際距離');
+  const station=stationProfile(item);
+  if(station.origin&&!new RegExp(`距${station.origin}\\s*\\d+\\s*公尺`).test(item.stationText || ''))values.push(`${station.origin}站實際距離`);
   if (item.ambiguousPrice) values.push('補助前實際租金');
   return values;
 }
 
 export function advantages(item) {
-  return [item.stationPriority && '原文明列民權西路站', item.water === '台水' && item.electric === '台電' ? '台水台電' : item.electric === '台電' && '台電計費', item.subsidy === '可租補' && '可租補'].filter(Boolean);
+  const station=stationProfile(item);
+  return [station.focus?.meters<=800?`${station.origin}站附近（直線參考）`:station.method==='text_only'&&station.origin?`原文提及${station.origin}站`:null, item.water === '台水' && item.electric === '台電' ? '台水台電' : item.electric === '台電' && '台電計費', item.subsidy === '可租補' && '可租補'].filter(Boolean);
 }
 
 export function inquiry(item) {
