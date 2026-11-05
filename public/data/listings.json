@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-05T01:23:24.175195+00:00",
+  "generatedAt": "2026-11-05T01:24:11.554014+00:00",
   "historyTrackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
-  "lastCollectedAt": "2026-11-05T01:21:29.667669+00:00",
+  "lastCollectedAt": "2026-11-05T01:24:10.499401+00:00",
   "totalCollected": 163,
   "sources": [
     {
@@ -711,9 +711,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.023325+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.023325+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -724,8 +727,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:50:51.633285+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 175,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 148,
             "time": "2026-11-05T00:50:51.633285+00:00",
@@ -779,9 +794,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.023305+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.023305+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -792,8 +810,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:50:51.633285+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 176,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 149,
             "time": "2026-11-05T00:50:51.633285+00:00",
@@ -1214,9 +1244,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.023654+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.023654+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -1235,8 +1268,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 177,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 6,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -1354,9 +1399,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.023579+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.023579+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -1367,8 +1415,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 178,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 8,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -2490,9 +2550,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.023462+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.023462+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -2503,8 +2566,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 179,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 24,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -2558,9 +2633,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.022858+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.022858+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -2579,8 +2657,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 180,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 25,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -2632,9 +2722,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.023560+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.023560+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -2645,8 +2738,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 181,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 26,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -2766,9 +2871,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.023599+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.023599+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -2779,8 +2887,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 182,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 28,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -2834,9 +2954,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.023413+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.023413+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -2855,8 +2978,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 183,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 29,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -2911,9 +3046,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.023280+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.023280+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -2924,8 +3062,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 184,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 30,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -3047,9 +3197,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.023481+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.023481+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -3060,8 +3213,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 185,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 32,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -4013,9 +4178,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.023201+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.023201+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -4026,8 +4194,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 186,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 46,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -4147,9 +4327,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.023022+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.023022+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -4160,8 +4343,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 187,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 48,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -4213,9 +4408,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.022662+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.022662+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -4234,8 +4432,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 188,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 49,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -4289,9 +4499,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.022839+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.022839+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -4302,8 +4515,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 189,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 50,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -4357,9 +4582,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.022741+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.022741+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -4370,8 +4598,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 190,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 51,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -4525,9 +4765,12 @@
       },
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.022011+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.022011+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -4546,8 +4789,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 2,
+        "totalEvents": 3,
         "events": [
+          {
+            "id": 191,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 165,
             "time": "2026-11-05T01:23:24.150706+00:00",
@@ -4683,9 +4938,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.023441+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.023441+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -4696,8 +4954,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 192,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 55,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -4757,9 +5027,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.023501+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.023501+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -4770,8 +5043,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 193,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 56,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -5045,9 +5330,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.023521+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.023521+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -5058,8 +5346,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 194,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 60,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -5333,9 +5633,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.023388+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.023388+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -5354,8 +5657,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 195,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 64,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -5487,9 +5802,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.023349+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.023349+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -5508,8 +5826,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 196,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 66,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -5641,9 +5971,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.023541+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.023541+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -5654,8 +5987,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 197,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 68,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -5713,9 +6058,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.023241+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.023241+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -5734,8 +6082,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 198,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 69,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -5799,9 +6159,12 @@
       },
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.023630+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.023630+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -5820,8 +6183,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 199,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 70,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -5951,9 +6326,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.023368+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.023368+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -5964,8 +6342,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 200,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 72,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -6282,9 +6672,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.023260+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.023260+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -6295,8 +6688,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 201,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 76,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -6434,9 +6839,12 @@
       },
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.023221+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.023221+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -6455,8 +6863,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 2,
+        "totalEvents": 3,
         "events": [
+          {
+            "id": 202,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 167,
             "time": "2026-11-05T01:23:24.150706+00:00",
@@ -6494,7 +6914,7 @@
     },
     {
       "id": "2ed367abcd16ef14",
-      "contentFingerprint": "eef0de2185775bea79c0c8e6336d5e61d76501f9008bd8252588fa722e8e717b",
+      "contentFingerprint": "a8a63e975c5c02b5d9338dd748813fee7096fbe391e880e993580fe724017f60",
       "url": "https://rent.591.com.tw/22176671",
       "sourceId": "591",
       "sourceName": "591",
@@ -6514,7 +6934,7 @@
         "雙連"
       ],
       "firstSeen": "2026-11-04T14:22:29.957980+00:00",
-      "lastSeen": "2026-11-04T14:52:41.947684+00:00",
+      "lastSeen": "2026-11-05T01:24:10.499401+00:00",
       "unavailable": false,
       "nonListing": false,
       "ambiguousPrice": false,
@@ -6531,9 +6951,12 @@
       },
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本次仍讀到刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:24:10.499401+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.023141+00:00",
+        "lastDetailAt": "2026-11-05T01:24:10.499401+00:00",
+        "method": "detail"
       },
       "identityEvidence": [
         {
@@ -6542,18 +6965,30 @@
         },
         {
           "type": "same_text",
-          "key": "text:eef0de2185775bea79c0c8e6336d5e61d76501f9008bd8252588fa722e8e717b"
+          "key": "text:a8a63e975c5c02b5d9338dd748813fee7096fbe391e880e993580fe724017f60"
         },
         {
           "type": "same_ad_except_price",
-          "key": "ad:5483ee5ccd20d038e076d91ba39a07474982647a2a1e791f9120937ea59815f6"
+          "key": "ad:59dd22993761dcd00197d62585091b73629753e40619832c83f48cbc28139a60"
         }
       ],
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 203,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 79,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -6612,9 +7047,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.023102+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.023102+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -6625,8 +7063,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 204,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 80,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -6686,9 +7136,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.023122+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.023122+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -6699,8 +7152,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 205,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 81,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -6758,9 +7223,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.023162+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.023162+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -6779,8 +7247,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 206,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 82,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -6840,9 +7320,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.023182+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.023182+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -6853,8 +7336,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 207,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 83,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -7077,9 +7572,12 @@
       },
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.023083+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.023083+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -7098,8 +7596,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 208,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 86,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -7163,9 +7673,12 @@
       },
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.023063+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.023063+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -7184,8 +7697,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 209,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 87,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -7249,9 +7774,12 @@
       },
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.023043+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.023043+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -7270,8 +7798,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 210,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 88,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -7329,9 +7869,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.022997+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.022997+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -7350,8 +7893,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 211,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 89,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -7409,9 +7964,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.022878+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.022878+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -7430,8 +7988,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 212,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 90,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -7490,9 +8060,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.022681+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.022681+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -7503,8 +8076,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 213,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 91,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -7562,9 +8147,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.022897+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.022897+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -7575,8 +8163,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 214,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 92,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -7636,9 +8236,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.022981+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.022981+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -7649,8 +8252,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 215,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 93,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -7714,9 +8329,12 @@
       },
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.022964+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.022964+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -7735,8 +8353,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 216,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 94,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -7794,9 +8424,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.022800+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.022800+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -7807,8 +8440,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 217,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 95,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -7866,9 +8511,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.022819+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.022819+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -7879,8 +8527,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 218,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 96,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -7940,9 +8600,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.022702+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.022702+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -7953,8 +8616,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 219,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 97,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -8018,9 +8693,12 @@
       },
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.022721+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.022721+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -8039,8 +8717,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 220,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 98,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -8100,9 +8790,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.022780+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.022780+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -8121,8 +8814,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 221,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 99,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -8187,9 +8892,12 @@
       },
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.022948+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.022948+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -8208,8 +8916,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 2,
+        "totalEvents": 3,
         "events": [
+          {
+            "id": 222,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 168,
             "time": "2026-11-05T01:23:24.150706+00:00",
@@ -8281,9 +9001,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.022760+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.022760+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -8294,8 +9017,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 223,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 101,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -8353,9 +9088,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.022533+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.022533+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -8366,8 +9104,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 224,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 102,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -8707,9 +9457,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.022622+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.022622+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -8728,8 +9481,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 225,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 106,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -8787,9 +9552,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.022643+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.022643+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -8808,8 +9576,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 226,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 107,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -8867,9 +9647,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.022592+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.022592+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -8888,8 +9671,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 227,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 108,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -8949,9 +9744,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.022512+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.022512+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -8970,8 +9768,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 228,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 109,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -9036,9 +9846,12 @@
       },
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.022572+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.022572+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -9057,8 +9870,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 2,
+        "totalEvents": 3,
         "events": [
+          {
+            "id": 229,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 171,
             "time": "2026-11-05T01:23:24.150706+00:00",
@@ -9096,7 +9921,7 @@
     },
     {
       "id": "9155d284a7ba2bf5",
-      "contentFingerprint": "ffcbf5d8e530e441ec3657ab8e10a01e78644696181ce26f47f079d8e5432124",
+      "contentFingerprint": "cda136d8c4ffed2cf0a5ada44a071f7c2955919dc2d1ee1665e5d84a3410b0bf",
       "url": "https://rent.591.com.tw/22232863",
       "sourceId": "591",
       "sourceName": "591",
@@ -9105,8 +9930,8 @@
       "street": "寧夏路",
       "kind": "獨立套房",
       "rent": 17500,
-      "managementFee": null,
-      "extraFee": "來源列額外費用 800 元／月（項目需確認）",
+      "managementFee": 800,
+      "extraFee": "來源列 800 元／月，與管理費同額，請確認是否同一筆，勿自行重複加計",
       "water": "待確認",
       "electric": "台電",
       "subsidy": "待確認",
@@ -9116,7 +9941,7 @@
         "雙連"
       ],
       "firstSeen": "2026-11-04T14:22:23.611409+00:00",
-      "lastSeen": "2026-11-04T14:51:38.118383+00:00",
+      "lastSeen": "2026-11-05T01:23:57.202411+00:00",
       "unavailable": false,
       "nonListing": false,
       "ambiguousPrice": false,
@@ -9127,24 +9952,61 @@
         "photos/9155d284a7ba-95f967d1e5ea67.jpg",
         "photos/9155d284a7ba-5364f2d87cc90b.jpg"
       ],
-      "location": null,
+      "location": {
+        "lat": 25.0573854,
+        "lng": 121.5162764,
+        "label": "來源提供的位置，非門牌保證"
+      },
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本次仍讀到刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:57.202411+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.022552+00:00",
+        "lastDetailAt": "2026-11-05T01:23:57.202411+00:00",
+        "method": "detail"
       },
       "identityEvidence": [
         {
           "type": "same_591_listing",
           "key": "591:22232863"
+        },
+        {
+          "type": "same_text",
+          "key": "text:cda136d8c4ffed2cf0a5ada44a071f7c2955919dc2d1ee1665e5d84a3410b0bf"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:06d0feaed6928f5cc6692346113f16b369077e3ed226b72f68f573dcb949ba6a"
         }
       ],
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 230,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "managementFee",
+                "before": null,
+                "after": 800
+              },
+              {
+                "field": "extraFee",
+                "before": "來源列額外費用 800 元／月（項目需確認）",
+                "after": "來源列 800 元／月，與管理費同額，請確認是否同一筆，勿自行重複加計"
+              },
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 111,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -9362,9 +10224,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.022493+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.022493+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -9375,8 +10240,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 231,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 114,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -9436,9 +10313,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.022473+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.022473+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -9449,8 +10329,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 2,
+        "totalEvents": 3,
         "events": [
+          {
+            "id": 232,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 172,
             "time": "2026-11-05T01:23:24.150706+00:00",
@@ -9526,9 +10418,12 @@
       },
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.022451+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.022451+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -9547,8 +10442,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 233,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 116,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -9694,9 +10601,12 @@
       },
       "linkedListings": [],
       "availability": {
-        "status": "unknown",
-        "reason": "可租狀態尚未確認",
-        "checkedAt": null
+        "status": "listed",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-05T01:23:44.022402+00:00",
+        "lastListedAt": "2026-11-05T01:23:44.022402+00:00",
+        "lastDetailAt": null,
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -9715,8 +10625,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-05T00:05:47.772651+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 234,
+            "time": "2026-11-05T01:24:11.474136+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "unknown",
+                "after": "listed"
+              }
+            ]
+          },
           {
             "id": 118,
             "time": "2026-11-05T00:05:47.772651+00:00",
@@ -11603,7 +12525,7 @@
   "collector": {
     "state": "ready",
     "message": "雲端依序更新：591 每 10 分鐘，Facebook 每 2 小時。",
-    "lastAttemptAt": "2026-11-05T01:10:56.922655+00:00",
-    "lastSuccessAt": "2026-11-05T01:22:03.570544+00:00"
+    "lastAttemptAt": "2026-11-05T01:23:27.947910+00:00",
+    "lastSuccessAt": "2026-11-05T01:24:10.563385+00:00"
   }
 }
