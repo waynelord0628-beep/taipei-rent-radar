@@ -13,6 +13,7 @@ import {loadPlans,ViewingBoard} from './Viewings';
 const MapView = lazy(() => import('./MapView.jsx'));
 
 export default function App() {
+  const [notificationHome,setNotificationHome]=useState(()=>new URLSearchParams(location.search).get('home'));
   const [data, setData] = useState(null), [error, setError] = useState(''), [loading, setLoading] = useState(true);
   const [filters, setFilters] = useState(defaults), [tab, setTab] = useState('match'), [sort, setSort] = useState('station');
   const [view,setView] = useState('list');
@@ -43,6 +44,7 @@ export default function App() {
     return buildHomes((data?.listings || []).map(x=>({...x,sourceLabel:names.get(x.sourceId)||x.sourceName})));
   },[data]);
   const assessed = useMemo(() => homes.map(item => ({ ...item, station:stationProfile(item), assessment: assessHome(item, filters) })), [homes, filters]);
+  useEffect(()=>{if(notificationHome&&assessed.length){const home=assessed.find(x=>x.memberIds.includes(notificationHome));if(home)setSelected(home);setNotificationHome(null);}},[notificationHome,assessed]);
   const toggleFavorite = id => {
     const home=assessed.find(x=>x.memberIds.includes(id));
     if(home)setFavorites(ids=>containsId(home,ids)?ids.filter(x=>!home.memberIds.includes(x)):[...ids,home.id]);
