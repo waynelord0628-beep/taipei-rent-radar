@@ -1,10 +1,10 @@
 import { assess } from './data.js';
 import {lifecycle} from './lifecycle.js';
 
-export const fieldLabels = {district:'行政區',street:'路段',kind:'房型',rent:'租金',managementFee:'管理費',extraFee:'其他費用',water:'水費',electric:'電費',subsidy:'租補',stationText:'捷運資訊',unavailable:'出租狀態',ambiguousPrice:'價格待確認',availabilityStatus:'刊登讀取狀態'};
+export const fieldLabels = {district:'行政區',street:'路段',kind:'房型',rent:'租金',managementFee:'管理費',extraFee:'其他費用',water:'水費',electric:'電費',subsidy:'租補',stationText:'捷運資訊',unavailable:'出租狀態',ambiguousPrice:'價格待確認',availabilityStatus:'刊登讀取狀態',washingMachine:'洗衣機',rooftopAddition:'頂樓加蓋',knownMonthlyCost:'已知固定月費合計',fixedFeesStatus:'費用完整度'};
 const known = value => value != null && value !== '' && value !== '待確認';
 const time = value => Date.parse(value) || 0;
-const conflictFields = ['rent','managementFee','water','electric','subsidy','unavailable'];
+const conflictFields = ['rent','managementFee','water','electric','subsidy','unavailable','washingMachine','rooftopAddition','knownMonthlyCost'];
 
 export function buildHomes(listings) {
   const parents=listings.map((_,i)=>i), keys=new Map();

@@ -12,12 +12,12 @@ test('monthly subtotal adds management once and never guesses extra fees',()=>{
   assert.match(costBreakdown({rent:12000,managementFee:null}),/管理費待確認/);
 });
 test('station mention alone never becomes verified distance',()=>{
-  const item={subsidy:'可租補',managementFee:0,water:'台水',electric:'台電',stationPriority:true};
+  const item={subsidy:'可租補',managementFee:0,water:'台水',electric:'台電',stationPriority:true,washingMachine:'獨立專用',rooftopAddition:'否'};
   assert.deepEqual(questions({...item,stationText:'原文明列民權西路站，距離待確認'}),['民權西路站實際距離']);
   assert.deepEqual(questions({...item,stationText:'原文明列距民權西路 300 公尺'}),[]);
 });
 test('strict utilities distinguishes unknown from a known different tariff',()=>{
-  const item={district:'大同區',kind:'獨立套房',rent:16000,subsidy:'可租補',water:'台水'};
+  const item={district:'大同區',kind:'獨立套房',rent:16000,managementFee:0,fixedFeesStatus:'已知費用可計算',rooftopAddition:'否',subsidy:'可租補',water:'台水'};
   const filters={...defaults,utilities:true};
   assert.equal(assess({...item,electric:'每度5元'},filters).status,'excluded');
   assert.equal(assess({...item,electric:'待確認'},filters).status,'pending');

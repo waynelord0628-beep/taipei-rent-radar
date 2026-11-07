@@ -1,16 +1,13 @@
 import { money } from './data.js';
 import {stationProfile} from './metro.js';
 
-// This is a disclosed subtotal, never an invented all-inclusive monthly bill.
-export function monthlyCost(item) {
-  if (!Number.isFinite(item.rent)) return null;
-  return item.rent + (Number.isFinite(item.managementFee) ? item.managementFee : 0);
-}
+export {monthlyCost} from './costs.js';
 
 export function costBreakdown(item) {
   if (!Number.isFinite(item.rent)) return '租金待確認';
   const fee = item.managementFee;
-  return `租金 ${money(item.rent)}${fee == null ? ' · 管理費待確認' : ` ＋ 管理費 ${money(fee)}`}`;
+  const extras=(item.fixedMonthlyFees || []).filter(x=>!x.included).map(x=>` ＋ ${x.label} ${money(x.amount)}`).join('');
+  return `租金 ${money(item.rent)}${fee == null ? ' · 管理費待確認' : ` ＋ 管理費 ${money(fee)}`}${extras}`;
 }
 
 export function questions(item) {
@@ -23,6 +20,9 @@ export function questions(item) {
   if (item.extraFee) values.push('其他費用是否重複計列');
   const station=stationProfile(item);
   if(station.origin&&!new RegExp(`距${station.origin}\\s*\\d+\\s*公尺`).test(item.stationText || ''))values.push(`${station.origin}站實際距離`);
+  if(item.washingMachine!=='獨立專用')values.push('是否有獨立專用洗衣機');
+  if(item.rooftopAddition!=='否')values.push('是否頂樓加蓋');
+  if(item.fixedFeesStatus==='待確認')values.push(...(item.fixedFeeNotes || []));
   if (item.ambiguousPrice) values.push('補助前實際租金');
   return values;
 }
