@@ -26,3 +26,10 @@ test('strict utilities distinguishes unknown from a known different tariff',()=>
 test('monthly sorting includes disclosed management',()=>{
   assert.deepEqual(sorted([{id:'a',rent:12000,managementFee:2000},{id:'b',rent:13000,managementFee:0}],'monthly').map(x=>x.id),['b','a']);
 });
+
+test('all advertised base rent options above budget are excluded, not merely pending',()=>{
+  const item={district:'中山區',kind:'獨立套房',rent:null,rentMin:23800,rentMax:25800,ambiguousPrice:true};
+  assert.equal(assess(item,defaults).status,'excluded');
+  assert.ok(assess(item,defaults).reasons.includes('刊登最低原租金已超過預算'));
+  assert.equal(assess({...item,rentMin:17000},defaults).status,'pending');
+});

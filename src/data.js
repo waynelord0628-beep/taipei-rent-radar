@@ -12,6 +12,7 @@ export function assess(item, filters) {
   }
   if (item.rent == null) pending.push('租金待確認');
   else if (item.rent > filters.budget) no.push('超出租金上限');
+  if(item.rent==null&&Number.isFinite(item.rentMin)&&item.rentMin>filters.budget)no.push('刊登最低原租金已超過預算');
   if(filters.totalBudget) {
     if(monthlyCost(item)!=null&&monthlyCost(item)>filters.budget)no.push('租金加已知固定月費超過預算');
     if(costUncertain(item))pending.push('固定月費待確認');
