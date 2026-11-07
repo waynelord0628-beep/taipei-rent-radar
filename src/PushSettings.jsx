@@ -11,7 +11,7 @@ export default function PushSettings(){
     setBusy(true);setMessage('');
     try{
       if(type==='subscribe'){
-        if(!supported())throw new Error('此環境不支援推播。iPhone 請用 Safari 加入主畫面，再從圖示開啟。');
+        if(!supported())throw new Error('此環境不支援推播。Android 請用一般模式 Chrome 開啟；iPhone 請用 Safari 加入主畫面後開啟。');
         if(!code.trim())throw new Error('請先輸入私人配對碼');
         // Permission prompt directly follows the user's click (required on iOS).
         if(await Notification.requestPermission()!=='granted')throw new Error('尚未允許通知；若曾封鎖，請到瀏覽器或系統設定調整。');
@@ -28,5 +28,5 @@ export default function PushSettings(){
       }else{await request(type,{token});setMessage('已交給瀏覽器推播服務，請確認裝置是否收到。');}
     }catch(error){setMessage(error.message==='Failed to fetch'?'推播服務暫時無法連線，請稍後再試。':error.message);}finally{setBusy(false);}
   }
-  return <section className="push-settings"><button className="secondary" aria-expanded={open} onClick={()=>setOpen(!open)}>房源通知設定{token?' · 已配對':''}</button>{open&&<div className="push-panel"><h2>關閉網站也能收到新房源</h2><p>只通知已知固定月費 18,000 元內、台電、可租補、非頂加且有照片的新房源；獨洗加分。照片是否合口味仍需判讀，其他物件照常列在網站。</p><p>iPhone：Safari 分享 → 加入主畫面 → 從圖示開啟 → 回到這裡開啟通知。系統省電、專注模式及瀏覽器設定可能影響送達。</p>{!token?<><label>私人配對碼 <input type="password" autoComplete="off" value={code} onChange={e=>setCode(e.target.value)} placeholder="輸入提供給你的配對碼"/></label><button className="primary" disabled={busy} onClick={()=>action('subscribe')}>{busy?'處理中…':'開啟此裝置通知'}</button></>:<><button className="primary" disabled={busy} onClick={()=>action('test')}>發送測試通知</button><button className="secondary" disabled={busy} onClick={()=>action('unsubscribe')}>停止此裝置通知</button></>}{message&&<p role="status">{message}</p>}</div>}</section>;
+  return <section className="push-settings"><button className="secondary" aria-expanded={open} onClick={()=>setOpen(!open)}>房源通知設定{token?' · 已配對':''}</button>{open&&<div className="push-panel"><h2>關閉網站也能收到新房源</h2><p>只通知已知固定月費 18,000 元內、台電、可租補、非頂加且有照片的新房源；獨洗加分。照片是否合口味仍需判讀，其他物件照常列在網站。</p><p><strong>Android：</strong>用 Chrome 一般模式開啟此網站 → 輸入配對碼 → 開啟通知並允許 → 發送測試通知。不必先安裝或加入主畫面；請從 LINE／Facebook 內建瀏覽器切換到 Chrome。</p><p>Android 若收不到：確認手機「設定 → 應用程式 → Chrome → 通知」已允許，再到 Chrome「設定 → 網站設定 → 通知」確認本網站未被封鎖。不同手機名稱可能略有差異。</p><p>每支手機分別配對；停止通知只影響目前裝置。</p><p>iPhone：Safari 分享 → 加入主畫面 → 從圖示開啟 → 回到這裡開啟通知。系統省電、專注模式及瀏覽器設定可能影響送達。</p>{!token?<><label>私人配對碼 <input type="password" autoComplete="off" value={code} onChange={e=>setCode(e.target.value)} placeholder="輸入提供給你的配對碼"/></label><button className="primary" disabled={busy} onClick={()=>action('subscribe')}>{busy?'處理中…':'開啟此裝置通知'}</button></>:<><button className="primary" disabled={busy} onClick={()=>action('test')}>發送測試通知</button><button className="secondary" disabled={busy} onClick={()=>action('unsubscribe')}>停止此裝置通知</button></>}{message&&<p role="status">{message}</p>}</div>}</section>;
 }
