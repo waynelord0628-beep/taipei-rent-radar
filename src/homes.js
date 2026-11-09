@@ -46,6 +46,7 @@ export function assessHome(home, filters) {
   if(['stale','page_missing'].includes(state.state)) {
     result.reasons.push(state.state==='stale'?'7天以上未確認，請先確認可租狀態':'原文頁面失效待確認');
     if(result.status==='match')result.status='pending';
+    if(state.state==='page_missing')result.status='excluded';
   }
   if (home.conflicts.length) return {status:result.status==='match'?'pending':result.status,reasons:[...result.reasons,'不同來源條件不一致，請核對原文']};
   return result;
