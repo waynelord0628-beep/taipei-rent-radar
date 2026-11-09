@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-09T19:31:01.357407+00:00",
+  "generatedAt": "2026-11-09T19:36:16.664004+00:00",
   "historyTrackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
-  "lastCollectedAt": "2026-11-09T19:30:55.697559+00:00",
+  "lastCollectedAt": "2026-11-09T19:36:09.539441+00:00",
   "totalCollected": 1125,
   "sources": [
     {
@@ -14823,12 +14823,12 @@
       "location": null,
       "linkedListings": [],
       "availability": {
-        "status": "listed",
-        "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-09T08:00:21.128963+00:00",
+        "status": "page_missing",
+        "reason": "原物件頁回應404，連結待確認",
+        "checkedAt": "2026-11-09T19:35:36.520456+00:00",
         "lastListedAt": "2026-11-09T08:00:21.128963+00:00",
-        "lastDetailAt": "2026-11-08T03:00:53.600913+00:00",
-        "method": "search"
+        "lastDetailAt": "2026-11-09T19:35:36.520456+00:00",
+        "method": "detail"
       },
       "identityEvidence": [
         {
@@ -14847,8 +14847,20 @@
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-08T03:00:58.499614+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 1472,
+            "time": "2026-11-09T19:36:16.516211+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "availabilityStatus",
+                "before": "listed",
+                "after": "page_missing"
+              }
+            ]
+          },
           {
             "id": 1307,
             "time": "2026-11-08T03:00:58.499614+00:00",
@@ -34413,7 +34425,7 @@
     },
     {
       "id": "de1eae73d5cb1eea",
-      "contentFingerprint": "6c44fc2161296dd878c9999dd7570cdc0023b260d759d136634b907da3d21ff0",
+      "contentFingerprint": "43c9cbde0787addc1c76ae294a3a35b59b8103784cfd0e5eda0d78f0db97410c",
       "url": "https://rent.591.com.tw/22307680",
       "sourceId": "591",
       "sourceName": "591",
@@ -34448,25 +34460,43 @@
         "大橋頭"
       ],
       "firstSeen": "2026-11-07T04:47:38.639572+00:00",
-      "lastSeen": "2026-11-07T04:47:38.639572+00:00",
+      "lastSeen": "2026-11-09T19:35:52.561721+00:00",
       "unavailable": false,
       "nonListing": false,
       "ambiguousPrice": false,
-      "images": [],
-      "location": null,
+      "images": [
+        "photos/de1eae73d5cb-49557f3c835c06.jpg",
+        "photos/de1eae73d5cb-8749b478e21be3.jpg",
+        "photos/de1eae73d5cb-03d3efce788da4.jpg",
+        "photos/de1eae73d5cb-30fdf7938cf359.jpg",
+        "photos/de1eae73d5cb-5b0e2936201ffc.jpg"
+      ],
+      "location": {
+        "lat": 25.0606338,
+        "lng": 121.511246,
+        "label": "來源提供的位置，非門牌保證"
+      },
       "linkedListings": [],
       "availability": {
         "status": "listed",
-        "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-09T19:30:29.356440+00:00",
+        "reason": "本次仍讀到刊登，可租狀態需確認",
+        "checkedAt": "2026-11-09T19:35:52.561721+00:00",
         "lastListedAt": "2026-11-09T19:30:29.356440+00:00",
-        "lastDetailAt": "2026-11-07T04:47:38.639572+00:00",
-        "method": "search"
+        "lastDetailAt": "2026-11-09T19:35:52.561721+00:00",
+        "method": "detail"
       },
       "identityEvidence": [
         {
           "type": "same_591_listing",
           "key": "591:22307680"
+        },
+        {
+          "type": "same_text",
+          "key": "text:43c9cbde0787addc1c76ae294a3a35b59b8103784cfd0e5eda0d78f0db97410c"
+        },
+        {
+          "type": "same_ad_except_price",
+          "key": "ad:169e9f1946451dda13e23543d9076af363822894480742867b751a7393551d5e"
         }
       ],
       "history": {
@@ -92693,7 +92723,7 @@
     },
     {
       "id": "f5e24a1efecc84cd",
-      "contentFingerprint": "31f101f17755ef1224221d388cc07a78ecf04fc802b344f7a8d1dd9e17d7e82f",
+      "contentFingerprint": "9c18097ed9bb0d7e03203f1505b86a9c669aa3663e2a2e3a909e20c5173337e5",
       "url": "https://rent.591.com.tw/22278551",
       "sourceId": "591",
       "sourceName": "591",
@@ -92729,16 +92759,16 @@
         "大橋頭"
       ],
       "firstSeen": "2026-11-04T14:22:23.612148+00:00",
-      "lastSeen": "2026-11-04T14:52:19.384265+00:00",
+      "lastSeen": "2026-11-09T19:36:09.539441+00:00",
       "unavailable": false,
       "nonListing": false,
       "ambiguousPrice": false,
       "images": [
-        "photos/f5e24a1efecc-edcc826626336d.jpg",
-        "photos/f5e24a1efecc-dcfef8837a4dc5.jpg",
-        "photos/f5e24a1efecc-c0f32f23775d97.jpg",
-        "photos/f5e24a1efecc-0ef0b052eb5ac6.jpg",
-        "photos/f5e24a1efecc-b83c1f4ac7f87b.jpg"
+        "photos/f5e24a1efecc-d72278b7f01a4f.jpg",
+        "photos/f5e24a1efecc-568eef60182820.jpg",
+        "photos/f5e24a1efecc-fec8c281864359.jpg",
+        "photos/f5e24a1efecc-4ca02bb23b5ce9.jpg",
+        "photos/f5e24a1efecc-7797e87ca829d8.jpg"
       ],
       "location": {
         "lat": 25.0680238,
@@ -92748,11 +92778,11 @@
       "linkedListings": [],
       "availability": {
         "status": "listed",
-        "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-09T19:06:46.640258+00:00",
+        "reason": "本次仍讀到刊登，可租狀態需確認",
+        "checkedAt": "2026-11-09T19:36:09.539441+00:00",
         "lastListedAt": "2026-11-09T19:06:46.640258+00:00",
-        "lastDetailAt": null,
-        "method": "search"
+        "lastDetailAt": "2026-11-09T19:36:09.539441+00:00",
+        "method": "detail"
       },
       "identityEvidence": [
         {
@@ -92761,11 +92791,11 @@
         },
         {
           "type": "same_text",
-          "key": "text:31f101f17755ef1224221d388cc07a78ecf04fc802b344f7a8d1dd9e17d7e82f"
+          "key": "text:9c18097ed9bb0d7e03203f1505b86a9c669aa3663e2a2e3a909e20c5173337e5"
         },
         {
           "type": "same_ad_except_price",
-          "key": "ad:4fe00c9ca8d79d4dd663b95864dd235a82f0c2218f24f7162a6585a94f478124"
+          "key": "ad:3ddac78ac2fcbd7e65de7329a518e87435656475185d0a9e025c6d520b3c442f"
         }
       ],
       "history": {
