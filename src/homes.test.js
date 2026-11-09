@@ -5,6 +5,13 @@ import {defaults} from './data.js';
 
 const base={id:'a',url:'https://rent.591.com.tw/123',sourceName:'591',district:'大同區',kind:'獨立套房',rent:17000,subsidy:'可租補',firstSeen:'2026-11-04T00:00:00Z',lastSeen:'2026-11-05T00:00:00Z'};
 const evidence={type:'same_591_listing',key:'591:123'};
+
+test('missing source page is excluded without claiming the home was rented',()=>{
+  const [home]=buildHomes([{...base,availability:{status:'page_missing'},unavailable:false}]);
+  assert.equal(assessHome(home,defaults).status,'excluded');
+  assert.equal(home.unavailable,false);
+  assert.ok(assessHome(home,defaults).reasons.includes('原文頁面失效待確認'));
+});
 test('cross-source evidence merges while preserving every variant and old favorite',()=>{
   const [home]=buildHomes([{...base,identityEvidence:[evidence]},{...base,id:'b',sourceName:'Facebook',url:'https://www.facebook.com/groups/demo/posts/123/',identityEvidence:[evidence],firstSeen:'2026-11-05T00:00:00Z'}]);
   assert.equal(home.members.length,2);assert.equal(home.id,'a');assert.equal(containsId(home,['b']),true);
