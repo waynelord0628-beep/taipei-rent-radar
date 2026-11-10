@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-10T17:41:01.728810+00:00",
+  "generatedAt": "2026-11-10T17:51:01.056964+00:00",
   "historyTrackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
-  "lastCollectedAt": "2026-11-10T17:40:54.632691+00:00",
+  "lastCollectedAt": "2026-11-10T17:50:52.904793+00:00",
   "totalCollected": 1385,
   "sources": [
     {
@@ -3235,8 +3235,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.105781+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.105781+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651658+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651658+00:00",
         "lastDetailAt": "2026-11-10T17:00:37.420602+00:00",
         "method": "search"
       },
@@ -25558,8 +25558,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.104734+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.104734+00:00",
+        "checkedAt": "2026-11-10T17:50:24.650965+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.650965+00:00",
         "lastDetailAt": "2026-11-09T13:20:58.058120+00:00",
         "method": "search"
       },
@@ -26065,8 +26065,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.105205+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.105205+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651279+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651279+00:00",
         "lastDetailAt": "2026-11-10T15:50:36.241083+00:00",
         "method": "search"
       },
@@ -26162,8 +26162,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.105964+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.105964+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651766+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651766+00:00",
         "lastDetailAt": "2026-11-09T05:20:46.374144+00:00",
         "method": "search"
       },
@@ -27032,8 +27032,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.106223+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.106223+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651917+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651917+00:00",
         "lastDetailAt": "2026-11-08T15:00:55.124056+00:00",
         "method": "search"
       },
@@ -27221,7 +27221,7 @@
     },
     {
       "id": "d35e990633063232",
-      "contentFingerprint": "c07b1d0df2316493c8af784fcd46f0dfa22fa29e9e8f4719687fd13a465b2720",
+      "contentFingerprint": "7a433733f085b475496f190c7cd94ec2a056791bbd4576149dea1b240f849304",
       "url": "https://rent.591.com.tw/22309136",
       "sourceId": "591",
       "sourceName": "591",
@@ -27230,17 +27230,16 @@
       "street": "北安路",
       "kind": "獨立套房",
       "rent": 14480,
-      "managementFee": null,
+      "managementFee": 500,
       "rentMin": 14480,
       "rentMax": 14480,
       "priceBasis": "原文租金",
-      "extraFee": "來源列額外費用 500 元／月（項目需確認）",
+      "extraFee": "來源列 500 元／月，與管理費同額，請確認是否同一筆，勿自行重複加計",
       "fixedMonthlyFees": [],
-      "knownMonthlyCost": 14480,
+      "knownMonthlyCost": 14980,
       "fixedFeesStatus": "待確認",
       "fixedFeeNotes": [
-        "來源另列未拆項的額外月費，可能與已列費用重複，須確認",
-        "管理費未明列"
+        "來源另列未拆項的額外月費，可能與已列費用重複，須確認"
       ],
       "water": "待確認",
       "electric": "待確認",
@@ -27257,20 +27256,30 @@
       "stationText": "原文明列距大直 186 公尺",
       "mentionedStations": [],
       "firstSeen": "2026-11-08T12:20:50.412579+00:00",
-      "lastSeen": "2026-11-08T12:20:50.412579+00:00",
+      "lastSeen": "2026-11-10T17:50:52.904793+00:00",
       "unavailable": false,
       "nonListing": false,
       "ambiguousPrice": false,
-      "images": [],
-      "location": null,
+      "images": [
+        "photos/d35e99063306-6191e6b6360500.jpg",
+        "photos/d35e99063306-23b57685fb45cb.jpg",
+        "photos/d35e99063306-adbbddc6dcb17b.jpg",
+        "photos/d35e99063306-96a5b77fc4bab8.jpg",
+        "photos/d35e99063306-c8518ea800c496.jpg"
+      ],
+      "location": {
+        "lat": 25.0814196,
+        "lng": 121.5464274,
+        "label": "來源提供的位置，非門牌保證"
+      },
       "linkedListings": [],
       "availability": {
         "status": "listed",
-        "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.106341+00:00",
+        "reason": "本次仍讀到刊登，可租狀態需確認",
+        "checkedAt": "2026-11-10T17:50:52.904793+00:00",
         "lastListedAt": "2026-11-10T17:40:26.106341+00:00",
-        "lastDetailAt": "2026-11-08T12:20:50.412579+00:00",
-        "method": "search"
+        "lastDetailAt": "2026-11-10T17:50:52.904793+00:00",
+        "method": "detail"
       },
       "identityEvidence": [
         {
@@ -27279,18 +27288,40 @@
         },
         {
           "type": "same_text",
-          "key": "text:c07b1d0df2316493c8af784fcd46f0dfa22fa29e9e8f4719687fd13a465b2720"
+          "key": "text:7a433733f085b475496f190c7cd94ec2a056791bbd4576149dea1b240f849304"
         },
         {
           "type": "same_ad_except_price",
-          "key": "ad:06d30f7d2fc73e272af7dda8b0e8603047f8f4f85f4f8f1b189a1c95d18850e3"
+          "key": "ad:d16806ac58d73a72b785ee9638a1cde8eafda1529aa6777401036bc8d7312c19"
         }
       ],
       "history": {
         "trackingStartedAt": "2026-11-05T00:05:47.772651+00:00",
         "firstObservedAt": "2026-11-08T12:20:55.733383+00:00",
-        "totalEvents": 1,
+        "totalEvents": 2,
         "events": [
+          {
+            "id": 1803,
+            "time": "2026-11-10T17:51:00.679980+00:00",
+            "type": "update",
+            "changes": [
+              {
+                "field": "managementFee",
+                "before": null,
+                "after": 500
+              },
+              {
+                "field": "extraFee",
+                "before": "來源列額外費用 500 元／月（項目需確認）",
+                "after": "來源列 500 元／月，與管理費同額，請確認是否同一筆，勿自行重複加計"
+              },
+              {
+                "field": "knownMonthlyCost",
+                "before": 14480,
+                "after": 14980
+              }
+            ]
+          },
           {
             "id": 1403,
             "time": "2026-11-08T12:20:55.733383+00:00",
@@ -27366,8 +27397,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.106150+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.106150+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651878+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651878+00:00",
         "lastDetailAt": "2026-11-08T11:40:49.072158+00:00",
         "method": "search"
       },
@@ -27576,8 +27607,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.105828+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.105828+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651746+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651746+00:00",
         "lastDetailAt": "2026-11-10T17:20:45.602591+00:00",
         "method": "search"
       },
@@ -40087,8 +40118,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.104796+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.104796+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651113+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651113+00:00",
         "lastDetailAt": "2026-11-07T17:40:52.999245+00:00",
         "method": "search"
       },
@@ -44918,8 +44949,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:20:18.329632+00:00",
-        "lastListedAt": "2026-11-10T17:20:18.329632+00:00",
+        "checkedAt": "2026-11-10T17:50:24.652018+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.652018+00:00",
         "lastDetailAt": "2026-11-10T15:40:49.003240+00:00",
         "method": "search"
       },
@@ -50181,8 +50212,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.106008+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.106008+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651785+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651785+00:00",
         "lastDetailAt": "2026-11-10T16:30:48.538786+00:00",
         "method": "search"
       },
@@ -55660,8 +55691,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.104419+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.104419+00:00",
+        "checkedAt": "2026-11-10T17:50:24.650738+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.650738+00:00",
         "lastDetailAt": "2026-11-09T19:35:52.561721+00:00",
         "method": "search"
       },
@@ -65436,8 +65467,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.105732+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.105732+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651612+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651612+00:00",
         "lastDetailAt": "2026-11-10T16:20:10.101096+00:00",
         "method": "search"
       },
@@ -68579,8 +68610,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.104334+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.104334+00:00",
+        "checkedAt": "2026-11-10T17:50:24.650676+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.650676+00:00",
         "lastDetailAt": "2026-11-10T14:30:50.097439+00:00",
         "method": "search"
       },
@@ -71361,7 +71392,7 @@
         "雙連"
       ],
       "firstSeen": "2026-11-06T13:50:45.791932+00:00",
-      "lastSeen": "2026-11-10T13:50:46.896577+00:00",
+      "lastSeen": "2026-11-10T17:50:38.263889+00:00",
       "unavailable": false,
       "nonListing": false,
       "ambiguousPrice": false,
@@ -71380,11 +71411,11 @@
       "linkedListings": [],
       "availability": {
         "status": "listed",
-        "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T16:40:28.466402+00:00",
-        "lastListedAt": "2026-11-10T16:40:28.466402+00:00",
-        "lastDetailAt": "2026-11-10T13:50:46.896577+00:00",
-        "method": "search"
+        "reason": "本次仍讀到刊登，可租狀態需確認",
+        "checkedAt": "2026-11-10T17:50:38.263889+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.650563+00:00",
+        "lastDetailAt": "2026-11-10T17:50:38.263889+00:00",
+        "method": "detail"
       },
       "identityEvidence": [
         {
@@ -85129,8 +85160,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.104886+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.104886+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651024+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651024+00:00",
         "lastDetailAt": "2026-11-10T15:10:58.111487+00:00",
         "method": "search"
       },
@@ -89621,8 +89652,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.105567+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.105567+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651467+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651467+00:00",
         "lastDetailAt": "2026-11-10T12:40:52.365311+00:00",
         "method": "search"
       },
@@ -102005,8 +102036,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.105673+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.105673+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651559+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651559+00:00",
         "lastDetailAt": "2026-11-05T03:10:56.431885+00:00",
         "method": "search"
       },
@@ -106784,8 +106815,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.104950+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.104950+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651151+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651151+00:00",
         "lastDetailAt": "2026-11-10T02:30:58.822373+00:00",
         "method": "search"
       },
@@ -107029,8 +107060,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:30:31.500758+00:00",
-        "lastListedAt": "2026-11-10T17:30:31.500758+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651997+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651997+00:00",
         "lastDetailAt": "2026-11-10T06:50:53.376117+00:00",
         "method": "search"
       },
@@ -107870,8 +107901,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:30:31.500711+00:00",
-        "lastListedAt": "2026-11-10T17:30:31.500711+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651951+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651951+00:00",
         "lastDetailAt": "2026-11-10T06:30:55.474648+00:00",
         "method": "search"
       },
@@ -108941,8 +108972,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:20:18.329466+00:00",
-        "lastListedAt": "2026-11-10T17:20:18.329466+00:00",
+        "checkedAt": "2026-11-10T17:50:24.652090+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.652090+00:00",
         "lastDetailAt": "2026-11-10T05:30:57.791614+00:00",
         "method": "search"
       },
@@ -109057,8 +109088,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:30:31.500550+00:00",
-        "lastListedAt": "2026-11-10T17:30:31.500550+00:00",
+        "checkedAt": "2026-11-10T17:50:24.652129+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.652129+00:00",
         "lastDetailAt": "2026-11-09T22:40:52.144751+00:00",
         "method": "search"
       },
@@ -109192,8 +109223,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:00:24.443390+00:00",
-        "lastListedAt": "2026-11-10T17:00:24.443390+00:00",
+        "checkedAt": "2026-11-10T17:50:24.652073+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.652073+00:00",
         "lastDetailAt": "2026-11-10T05:20:48.142401+00:00",
         "method": "search"
       },
@@ -109309,8 +109340,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.105693+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.105693+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651578+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651578+00:00",
         "lastDetailAt": "2026-11-10T05:10:58.329637+00:00",
         "method": "search"
       },
@@ -109449,8 +109480,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.105273+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.105273+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651325+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651325+00:00",
         "lastDetailAt": "2026-11-10T00:50:57.277758+00:00",
         "method": "search"
       },
@@ -109671,8 +109702,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.104672+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.104672+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651199+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651199+00:00",
         "lastDetailAt": "2026-11-10T04:20:47.873014+00:00",
         "method": "search"
       },
@@ -109789,8 +109820,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.104703+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.104703+00:00",
+        "checkedAt": "2026-11-10T17:50:24.650948+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.650948+00:00",
         "lastDetailAt": "2026-11-10T16:30:34.043658+00:00",
         "method": "search"
       },
@@ -109924,8 +109955,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.104608+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.104608+00:00",
+        "checkedAt": "2026-11-10T17:50:24.650909+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.650909+00:00",
         "lastDetailAt": "2026-11-10T02:50:50.218982+00:00",
         "method": "search"
       },
@@ -110442,8 +110473,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:30:31.500619+00:00",
-        "lastListedAt": "2026-11-10T17:30:31.500619+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651934+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651934+00:00",
         "lastDetailAt": "2026-11-10T04:10:52.577471+00:00",
         "method": "search"
       },
@@ -111121,8 +111152,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:30:31.500795+00:00",
-        "lastListedAt": "2026-11-10T17:30:31.500795+00:00",
+        "checkedAt": "2026-11-10T17:50:24.652054+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.652054+00:00",
         "lastDetailAt": "2026-11-10T02:40:53.974441+00:00",
         "method": "search"
       },
@@ -111359,8 +111390,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.106069+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.106069+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651824+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651824+00:00",
         "lastDetailAt": "2026-11-10T00:30:53.059482+00:00",
         "method": "search"
       },
@@ -111497,8 +111528,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.106125+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.106125+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651861+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651861+00:00",
         "lastDetailAt": "2026-11-10T03:01:01.565055+00:00",
         "method": "search"
       },
@@ -111628,8 +111659,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.106097+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.106097+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651844+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651844+00:00",
         "lastDetailAt": "2026-11-10T17:10:33.410859+00:00",
         "method": "search"
       },
@@ -111751,8 +111782,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.105440+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.105440+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651375+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651375+00:00",
         "lastDetailAt": null,
         "method": "search"
       },
@@ -112738,8 +112769,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.105856+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.105856+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651703+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651703+00:00",
         "lastDetailAt": "2026-11-10T00:20:47.378671+00:00",
         "method": "search"
       },
@@ -113233,8 +113264,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.105713+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.105713+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651595+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651595+00:00",
         "lastDetailAt": "2026-11-10T16:40:41.545058+00:00",
         "method": "search"
       },
@@ -113361,8 +113392,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.105629+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.105629+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651506+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651506+00:00",
         "lastDetailAt": "2026-11-10T17:20:31.327174+00:00",
         "method": "search"
       },
@@ -113474,8 +113505,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.105652+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.105652+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651541+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651541+00:00",
         "lastDetailAt": null,
         "method": "search"
       },
@@ -113578,8 +113609,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.105603+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.105603+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651485+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651485+00:00",
         "lastDetailAt": null,
         "method": "search"
       },
@@ -113680,8 +113711,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.105584+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.105584+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651523+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651523+00:00",
         "lastDetailAt": null,
         "method": "search"
       },
@@ -114022,8 +114053,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.105544+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.105544+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651445+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651445+00:00",
         "lastDetailAt": null,
         "method": "search"
       },
@@ -114406,8 +114437,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.105503+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.105503+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651425+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651425+00:00",
         "lastDetailAt": "2026-11-10T16:50:45.428020+00:00",
         "method": "search"
       },
@@ -114689,8 +114720,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.105107+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.105107+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651234+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651234+00:00",
         "lastDetailAt": "2026-11-10T03:10:56.525492+00:00",
         "method": "search"
       },
@@ -114924,8 +114955,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.105142+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.105142+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651256+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651256+00:00",
         "lastDetailAt": "2026-11-10T03:37:57.639190+00:00",
         "method": "search"
       },
@@ -115054,8 +115085,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.104849+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.104849+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651003+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651003+00:00",
         "lastDetailAt": "2026-11-09T20:30:55.453432+00:00",
         "method": "search"
       },
@@ -115170,8 +115201,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.104560+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.104560+00:00",
+        "checkedAt": "2026-11-10T17:50:24.650846+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.650846+00:00",
         "lastDetailAt": "2026-11-09T20:10:56.504634+00:00",
         "method": "search"
       },
@@ -115322,8 +115353,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.105025+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.105025+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651073+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651073+00:00",
         "lastDetailAt": "2026-11-10T02:20:49.251613+00:00",
         "method": "search"
       },
@@ -115458,8 +115489,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.105069+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.105069+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651217+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651217+00:00",
         "lastDetailAt": "2026-11-10T03:20:51.143472+00:00",
         "method": "search"
       },
@@ -115574,8 +115605,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.104640+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.104640+00:00",
+        "checkedAt": "2026-11-10T17:50:24.650931+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.650931+00:00",
         "lastDetailAt": "2026-11-09T20:21:01.490280+00:00",
         "method": "search"
       },
@@ -115850,8 +115881,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.104990+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.104990+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651093+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651093+00:00",
         "lastDetailAt": "2026-11-09T21:01:26.591212+00:00",
         "method": "search"
       },
@@ -115989,8 +116020,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.105178+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.105178+00:00",
+        "checkedAt": "2026-11-10T17:50:24.651179+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.651179+00:00",
         "lastDetailAt": "2026-11-09T19:36:09.539441+00:00",
         "method": "search"
       },
@@ -116366,11 +116397,11 @@
       "linkedListings": [],
       "availability": {
         "status": "listed",
-        "reason": "本次仍讀到刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:39.805167+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.104464+00:00",
+        "reason": "本輪列表仍有刊登，可租狀態需確認",
+        "checkedAt": "2026-11-10T17:50:24.650778+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.650778+00:00",
         "lastDetailAt": "2026-11-10T17:40:39.805167+00:00",
-        "method": "detail"
+        "method": "search"
       },
       "identityEvidence": [
         {
@@ -116498,8 +116529,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.104514+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.104514+00:00",
+        "checkedAt": "2026-11-10T17:50:24.650825+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.650825+00:00",
         "lastDetailAt": "2026-11-10T17:30:45.218520+00:00",
         "method": "search"
       },
@@ -117203,8 +117234,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.104387+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.104387+00:00",
+        "checkedAt": "2026-11-10T17:50:24.650717+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.650717+00:00",
         "lastDetailAt": "2026-11-10T00:10:59.001552+00:00",
         "method": "search"
       },
@@ -117614,8 +117645,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T16:40:28.466440+00:00",
-        "lastListedAt": "2026-11-10T16:40:28.466440+00:00",
+        "checkedAt": "2026-11-10T17:50:24.650624+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.650624+00:00",
         "lastDetailAt": "2026-11-10T14:11:26.756981+00:00",
         "method": "search"
       },
@@ -117869,8 +117900,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.104262+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.104262+00:00",
+        "checkedAt": "2026-11-10T17:50:24.650532+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.650532+00:00",
         "lastDetailAt": null,
         "method": "search"
       },
@@ -117973,8 +118004,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.104294+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.104294+00:00",
+        "checkedAt": "2026-11-10T17:50:24.650503+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.650503+00:00",
         "lastDetailAt": null,
         "method": "search"
       },
@@ -118095,8 +118126,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.104229+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.104229+00:00",
+        "checkedAt": "2026-11-10T17:50:24.650471+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.650471+00:00",
         "lastDetailAt": null,
         "method": "search"
       },
@@ -118211,8 +118242,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.104165+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.104165+00:00",
+        "checkedAt": "2026-11-10T17:50:24.650373+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.650373+00:00",
         "lastDetailAt": null,
         "method": "search"
       },
@@ -118325,8 +118356,8 @@
       "availability": {
         "status": "listed",
         "reason": "本輪列表仍有刊登，可租狀態需確認",
-        "checkedAt": "2026-11-10T17:40:26.103713+00:00",
-        "lastListedAt": "2026-11-10T17:40:26.103713+00:00",
+        "checkedAt": "2026-11-10T17:50:24.649756+00:00",
+        "lastListedAt": "2026-11-10T17:50:24.649756+00:00",
         "lastDetailAt": null,
         "method": "search"
       },
@@ -121016,7 +121047,7 @@
   "collector": {
     "state": "ready",
     "message": "雲端依序更新：591 每 10 分鐘，Facebook 每 2 小時。",
-    "lastAttemptAt": "2026-11-10T17:40:08.211533+00:00",
-    "lastSuccessAt": "2026-11-10T17:40:54.909279+00:00"
+    "lastAttemptAt": "2026-11-10T17:50:08.952499+00:00",
+    "lastSuccessAt": "2026-11-10T17:50:53.127950+00:00"
   }
 }
